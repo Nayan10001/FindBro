@@ -1,0 +1,31 @@
+.search-container {
+  max-width: 800px;
+  margin: 0 auto 80px;
+  position: relative;
+}
+
+.search-prompt {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.search-prompt h2 {
+  font-size: 2.5rem;
+  color: #ffffff;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.search-wrapper {
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .search-container {
+    margin: 0 auto 60px;
+  }
+  
+  .search-prompt h2 {
+    font-size: 2rem;
+  }
+}
