@@ -1,0 +1,1449 @@
+[
+  {
+    "name": "Autumn Jackson",
+    "handle": "williamsontimothy",
+    "skill_tags": ["C++", "AI", "JavaScript"],
+    "years_of_experience": 4,
+    "preferred_roles": ["Backend Developer"],
+    "availability_timezone": "IST",
+    "project_interests": ["Product building", "Research projects"]
+  },
+  {
+    "name": "Ethan Miller",
+    "handle": "emiller_dev",
+    "skill_tags": ["Python", "Django", "React", "PostgreSQL", "AWS"],
+    "years_of_experience": 7,
+    "preferred_roles": ["Full Stack Developer", "Tech Lead"],
+    "availability_timezone": "PST",
+    "project_interests": ["Scalable web applications", "Open source contribution", "Cloud infrastructure"]
+  },
+  {
+    "name": "Chloe Davis",
+    "handle": "chloe_ux",
+    "skill_tags": ["Figma", "Adobe XD", "User Research", "Prototyping", "HTML", "CSS"],
+    "years_of_experience": 3,
+    "preferred_roles": ["UI/UX Designer", "Product Designer"],
+    "availability_timezone": "EST",
+    "project_interests": ["User-centric design", "Mobile applications", "Accessibility"]
+  },
+  {
+    "name": "Kenji Tanaka",
+    "handle": "ktanaka_sec",
+    "skill_tags": ["Cybersecurity", "Penetration Testing", "Network Security", "Python", "Linux"],
+    "years_of_experience": 10,
+    "preferred_roles": ["Security Analyst", "Ethical Hacker"],
+    "availability_timezone": "JST",
+    "project_interests": ["Threat modeling", "Incident response", "Security automation"]
+  },
+  {
+    "name": "Priya Sharma",
+    "handle": "priyadata",
+    "skill_tags": ["Machine Learning", "TensorFlow", "PyTorch", "Data Analysis", "SQL", "R"],
+    "years_of_experience": 5,
+    "preferred_roles": ["Data Scientist", "Machine Learning Engineer"],
+    "availability_timezone": "IST",
+    "project_interests": ["Natural Language Processing", "Predictive modeling", "Big Data analytics"]
+  },
+  {
+    "name": "Marcus Rodriguez",
+    "handle": "mrod_mobile",
+    "skill_tags": ["Swift", "Kotlin", "iOS Development", "Android Development", "Firebase"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Mobile Developer (iOS)", "Mobile Developer (Android)"],
+    "availability_timezone": "CST",
+    "project_interests": ["Cross-platform development", "App performance optimization", "Innovative mobile UX"]
+  },
+  {
+    "name": "Sofia Petrova",
+    "handle": "sofia_devops",
+    "skill_tags": ["Docker", "Kubernetes", "Jenkins", "Terraform", "Azure", "CI/CD"],
+    "years_of_experience": 8,
+    "preferred_roles": ["DevOps Engineer", "Cloud Architect"],
+    "availability_timezone": "CET",
+    "project_interests": ["Infrastructure as Code", "Automation", "Site Reliability Engineering"]
+  },
+  {
+    "name": "Liam Chen",
+    "handle": "liam_frontend",
+    "skill_tags": ["Vue.js", "Nuxt.js", "JavaScript", "Tailwind CSS", "GraphQL"],
+    "years_of_experience": 2,
+    "preferred_roles": ["Frontend Developer"],
+    "availability_timezone": "AEST",
+    "project_interests": ["Component-based architecture", "Web performance", "Building beautiful UIs"]
+  },
+  {
+    "name": "Isabelle Dubois",
+    "handle": "isadubois_pm",
+    "skill_tags": ["Agile", "Scrum", "Product Roadmapping", "Market Research", "JIRA"],
+    "years_of_experience": 9,
+    "preferred_roles": ["Product Manager", "Project Manager"],
+    "availability_timezone": "GMT",
+    "project_interests": ["SaaS products", "User story mapping", "Go-to-market strategy"]
+  },
+  {
+    "name": "Ahmed Al-Farsi",
+    "handle": "ahmed_game_dev",
+    "skill_tags": ["Unity", "C#", "Game Design", "3D Modeling (Blender)", "VR/AR"],
+    "years_of_experience": 5,
+    "preferred_roles": ["Game Developer", "Gameplay Programmer"],
+    "availability_timezone": "AST",
+    "project_interests": ["Indie game development", "Immersive experiences", "Multiplayer games"]
+  },
+  {
+    "name": "Olivia Smith",
+    "handle": "olivias",
+    "skill_tags": ["Java", "Spring Boot", "Microservices", "Kafka", "SQL"],
+    "years_of_experience": 12,
+    "preferred_roles": ["Senior Backend Developer", "Solutions Architect"],
+    "availability_timezone": "EST",
+    "project_interests": ["Distributed systems", "High-traffic applications", "Fintech"]
+  },
+  {
+    "name": "Noah Brown",
+    "handle": "noahb_cloud",
+    "skill_tags": ["GCP", "BigQuery", "Dataflow", "Python", "Terraform"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Cloud Data Engineer", "Cloud Engineer"],
+    "availability_timezone": "PST",
+    "project_interests": ["Data warehousing", "ETL pipelines", "Serverless computing"]
+  },
+  {
+    "name": "Ava Wilson",
+    "handle": "ava_designs",
+    "skill_tags": ["Sketch", "InVision", "User Testing", "Responsive Design", "WCAG"],
+    "years_of_experience": 4,
+    "preferred_roles": ["UX Researcher", "Interaction Designer"],
+    "availability_timezone": "MST",
+    "project_interests": ["Inclusive design", "E-commerce UX", "Design systems"]
+  },
+  {
+    "name": "William Garcia",
+    "handle": "will_g_secops",
+    "skill_tags": ["SIEM", "Splunk", "Incident Handling", "Forensics", "Bash"],
+    "years_of_experience": 7,
+    "preferred_roles": ["Security Operations Engineer", "Cybersecurity Analyst"],
+    "availability_timezone": "CST",
+    "project_interests": ["Threat hunting", "Log analysis", "Security automation scripts"]
+  },
+  {
+    "name": "Sophia Martinez",
+    "handle": "sophia_ml_research",
+    "skill_tags": ["Python", "NLP", "Scikit-learn", "Deep Learning", "Academic Writing"],
+    "years_of_experience": 3,
+    "preferred_roles": ["AI Researcher", "NLP Engineer"],
+    "availability_timezone": "CET",
+    "project_interests": ["Cutting-edge AI research", "Language models", "Ethical AI"]
+  },
+  {
+    "name": "James Lee",
+    "handle": "jameslee_mobile_lead",
+    "skill_tags": ["React Native", "TypeScript", "GraphQL", "App Store Connect", "Google Play Console"],
+    "years_of_experience": 9,
+    "preferred_roles": ["Lead Mobile Developer", "Mobile Architect"],
+    "availability_timezone": "IST",
+    "project_interests": ["Cross-platform frameworks", "Mobile CI/CD", "Mentoring junior developers"]
+  },
+  {
+    "name": "Isabella Perez",
+    "handle": "isa_p_devops",
+    "skill_tags": ["AWS", "Ansible", "GitLab CI", "Prometheus", "Grafana"],
+    "years_of_experience": 5,
+    "preferred_roles": ["DevOps Engineer"],
+    "availability_timezone": "BRT",
+    "project_interests": ["Monitoring and alerting", "Cost optimization in cloud", "Automating deployments"]
+  },
+  {
+    "name": "Logan Thompson",
+    "handle": "logan_t_frontend",
+    "skill_tags": ["Angular", "RxJS", "TypeScript", "NgRx", "Jest"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Senior Frontend Developer"],
+    "availability_timezone": "PST",
+    "project_interests": ["Enterprise-grade SPAs", "State management", "Frontend testing strategies"]
+  },
+  {
+    "name": "Mia White",
+    "handle": "mia_product_owner",
+    "skill_tags": ["Agile", "User Stories", "Backlog Grooming", "Stakeholder Management", "Kanban"],
+    "years_of_experience": 7,
+    "preferred_roles": ["Product Owner", "Agile Coach"],
+    "availability_timezone": "EST",
+    "project_interests": ["EdTech", "Feature prioritization", "Agile transformations"]
+  },
+  {
+    "name": "Benjamin Harris",
+    "handle": "ben_harris_gamedev",
+    "skill_tags": ["Unreal Engine", "C++", "Blueprints", "Physics Programming", "AI for Games"],
+    "years_of_experience": 4,
+    "preferred_roles": ["Game Programmer", "Technical Artist"],
+    "availability_timezone": "GMT",
+    "project_interests": ["AAA game development", "Procedural generation", "Shader development"]
+  },
+  {
+    "name": "Charlotte Clark",
+    "handle": "char_clark_qa",
+    "skill_tags": ["Selenium", "Java", "TestNG", "API Testing (Postman)", "JIRA", "CI/CD"],
+    "years_of_experience": 5,
+    "preferred_roles": ["QA Automation Engineer", "Test Lead"],
+    "availability_timezone": "IST",
+    "project_interests": ["Building test frameworks", "Performance testing", "Mobile testing automation"]
+  },
+  {
+    "name": "Daniel Lewis",
+    "handle": "dan_lewis_dba",
+    "skill_tags": ["SQL Server", "Oracle", "Database Optimization", "Backup & Recovery", "T-SQL", "PL/SQL"],
+    "years_of_experience": 15,
+    "preferred_roles": ["Database Administrator", "Data Architect"],
+    "availability_timezone": "CST",
+    "project_interests": ["Database migration", "High availability solutions", "Data security"]
+  },
+  {
+    "name": "Amelia Robinson",
+    "handle": "amelia_rob_writer",
+    "skill_tags": ["Technical Writing", "API Documentation", "Markdown", "Git", "Content Strategy"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Technical Writer", "Documentation Specialist"],
+    "availability_timezone": "PST",
+    "project_interests": ["Developer portals", "User guides", "Improving documentation processes"]
+  },
+  {
+    "name": "Henry Walker",
+    "handle": "henryw_fullstack",
+    "skill_tags": ["Ruby on Rails", "JavaScript", "PostgreSQL", "Heroku", "StimulusJS"],
+    "years_of_experience": 8,
+    "preferred_roles": ["Full Stack Developer", "Ruby Developer"],
+    "availability_timezone": "AEST",
+    "project_interests": ["SaaS applications", "Rapid prototyping", "E-commerce solutions"]
+  },
+  {
+    "name": "Evelyn Hall",
+    "handle": "evelyn_data_viz",
+    "skill_tags": ["Tableau", "Power BI", "D3.js", "Python (Matplotlib, Seaborn)", "SQL"],
+    "years_of_experience": 4,
+    "preferred_roles": ["Data Visualization Specialist", "Business Intelligence Analyst"],
+    "availability_timezone": "CET",
+    "project_interests": ["Interactive dashboards", "Storytelling with data", "BI tool implementation"]
+  },
+  {
+    "name": "Alexander Young",
+    "handle": "alex_y_embedded",
+    "skill_tags": ["C", "Embedded Linux", "RTOS", "Microcontrollers (ARM, AVR)", "IoT"],
+    "years_of_experience": 7,
+    "preferred_roles": ["Embedded Systems Engineer", "Firmware Developer"],
+    "availability_timezone": "EST",
+    "project_interests": ["Hardware bring-up", "Low-power devices", "Automotive electronics"]
+  },
+  {
+    "name": "Abigail King",
+    "handle": "abigail_k_analyst",
+    "skill_tags": ["Excel", "SQL", "Python (Pandas)", "Data Cleaning", "Business Analysis"],
+    "years_of_experience": 2,
+    "preferred_roles": ["Junior Data Analyst", "Business Analyst"],
+    "availability_timezone": "MST",
+    "project_interests": ["Market research analysis", "Reporting", "Process improvement"]
+  },
+  {
+    "name": "Michael Wright",
+    "handle": "mike_wright_arch",
+    "skill_tags": ["System Design", "Microservices", "Cloud Native", "Event-Driven Architecture", "Leadership"],
+    "years_of_experience": 18,
+    "preferred_roles": ["Solutions Architect", "Principal Engineer"],
+    "availability_timezone": "PST",
+    "project_interests": ["Large-scale system design", "Mentoring", "Technology strategy"]
+  },
+  {
+    "name": "Ella Scott",
+    "handle": "ella_scott_marketing",
+    "skill_tags": ["Digital Marketing", "SEO", "Content Creation", "Social Media Management", "Google Analytics"],
+    "years_of_experience": 5,
+    "preferred_roles": ["Digital Marketing Specialist", "Content Strategist"],
+    "availability_timezone": "GMT",
+    "project_interests": ["Brand building", "Campaign management", "Data-driven marketing"]
+  },
+  {
+    "name": "Joseph Green",
+    "handle": "joe_green_networks",
+    "skill_tags": ["Cisco IOS", "Network Design", "Routing & Switching", "Firewalls (Palo Alto, Fortinet)", "VPN"],
+    "years_of_experience": 11,
+    "preferred_roles": ["Network Engineer", "Network Architect"],
+    "availability_timezone": "EST",
+    "project_interests": ["SD-WAN", "Cloud networking", "Network security design"]
+  },
+  {
+    "name": "Victoria Adams",
+    "handle": "vic_adams_flutter",
+    "skill_tags": ["Flutter", "Dart", "Firebase", "Mobile UI/UX", "BLoC/Provider"],
+    "years_of_experience": 3,
+    "preferred_roles": ["Flutter Developer", "Mobile Application Developer"],
+    "availability_timezone": "CET",
+    "project_interests": ["Cross-platform mobile apps", "Beautiful UIs", "Startups"]
+  },
+  {
+    "name": "David Baker",
+    "handle": "dave_b_sales",
+    "skill_tags": ["Salesforce", "Solution Selling", "Negotiation", "CRM Management", "Lead Generation"],
+    "years_of_experience": 9,
+    "preferred_roles": ["Sales Manager", "Account Executive (Tech)"],
+    "availability_timezone": "CST",
+    "project_interests": ["B2B sales", "Tech product sales", "Building sales teams"]
+  },
+  {
+    "name": "Grace Nelson",
+    "handle": "grace_n_support",
+    "skill_tags": ["Customer Support", "Zendesk", "Troubleshooting", "Communication", "Problem Solving"],
+    "years_of_experience": 4,
+    "preferred_roles": ["Technical Support Engineer", "Customer Success Manager"],
+    "availability_timezone": "PST",
+    "project_interests": ["Improving customer experience", "Knowledge base creation", "SaaS support"]
+  },
+  {
+    "name": "Samuel Carter",
+    "handle": "sam_carter_blockchain",
+    "skill_tags": ["Solidity", "Ethereum", "Smart Contracts", "Web3.js", "Cryptography"],
+    "years_of_experience": 5,
+    "preferred_roles": ["Blockchain Developer", "Smart Contract Engineer"],
+    "availability_timezone": "UTC",
+    "project_interests": ["DeFi applications", "NFT marketplaces", "Decentralized systems"]
+  },
+  {
+    "name": "Lily Mitchell",
+    "handle": "lily_m_research_bio",
+    "skill_tags": ["Bioinformatics", "Python", "R", "Genomic Data Analysis", "Biostatistics"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Bioinformatics Scientist", "Computational Biologist"],
+    "availability_timezone": "EST",
+    "project_interests": ["Drug discovery", "Personalized medicine", "NGS data analysis"]
+  },
+  {
+    "name": "Christopher Perez",
+    "handle": "chris_perez_it",
+    "skill_tags": ["Windows Server", "Active Directory", "VMware", "IT Support", "Office 365"],
+    "years_of_experience": 10,
+    "preferred_roles": ["IT Manager", "Systems Administrator"],
+    "availability_timezone": "MST",
+    "project_interests": ["IT infrastructure management", "Cloud migration (Azure AD)", "User support strategies"]
+  },
+  {
+    "name": "Natalie Roberts",
+    "handle": "nat_roberts_golang",
+    "skill_tags": ["Go (Golang)", "Microservices", "Docker", "Kubernetes", "gRPC"],
+    "years_of_experience": 7,
+    "preferred_roles": ["Backend Engineer (Go)", "Distributed Systems Engineer"],
+    "availability_timezone": "PST",
+    "project_interests": ["High-performance systems", "API development", "Cloud-native applications"]
+  },
+  {
+    "name": "Andrew Turner",
+    "handle": "andy_t_php",
+    "skill_tags": ["PHP", "Laravel", "Symfony", "MySQL", "Vue.js", "WordPress"],
+    "years_of_experience": 9,
+    "preferred_roles": ["PHP Developer", "Full Stack Developer (PHP focus)"],
+    "availability_timezone": "CET",
+    "project_interests": ["Custom web applications", "E-commerce development", "CMS customization"]
+  },
+  {
+    "name": "Hannah Phillips",
+    "handle": "hannah_p_consult",
+    "skill_tags": ["Management Consulting", "Business Strategy", "Data Analysis", "Client Management", "PowerPoint"],
+    "years_of_experience": 5,
+    "preferred_roles": ["Technology Consultant", "Strategy Analyst"],
+    "availability_timezone": "GMT",
+    "project_interests": ["Digital transformation", "Market entry strategy", "Process optimization"]
+  },
+  {
+    "name": "Joshua Campbell",
+    "handle": "josh_camp_arvr",
+    "skill_tags": ["Unity", "C#", "ARKit", "ARCore", "Vuforia", "3D Asset Pipeline"],
+    "years_of_experience": 4,
+    "preferred_roles": ["AR/VR Developer", "XR Engineer"],
+    "availability_timezone": "JST",
+    "project_interests": ["Interactive AR experiences", "VR training simulations", "Mobile AR"]
+  },
+  {
+    "name": "Sarah Parker",
+    "handle": "sarah_p_cloudsec",
+    "skill_tags": ["AWS Security", "Azure Security Center", "CloudFormation", "IAM", "Compliance (SOC2, ISO27001)"],
+    "years_of_experience": 8,
+    "preferred_roles": ["Cloud Security Engineer", "Security Architect"],
+    "availability_timezone": "IST",
+    "project_interests": ["DevSecOps", "Automated security compliance", "Threat detection in cloud"]
+  },
+  {
+    "name": "Ryan Evans",
+    "handle": "ryan_e_rust",
+    "skill_tags": ["Rust", "Systems Programming", "WebAssembly (WASM)", "Performance Optimization", "Async/Await"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Rust Developer", "Systems Engineer"],
+    "availability_timezone": "PST",
+    "project_interests": ["High-performance networking", "Command-line tools", "Safe concurrent programming"]
+  },
+  {
+    "name": "Lauren Edwards",
+    "handle": "lauren_e_teaching",
+    "skill_tags": ["Instructional Design", "E-learning Development", "Curriculum Development", "Articulate 360", "LMS Admin"],
+    "years_of_experience": 7,
+    "preferred_roles": ["Instructional Designer", "E-learning Specialist"],
+    "availability_timezone": "CST",
+    "project_interests": ["Corporate training programs", "Interactive learning modules", "Gamification in education"]
+  },
+  {
+    "name": "Brandon Collins",
+    "handle": "brandon_c_scala",
+    "skill_tags": ["Scala", "Akka", "Spark", "Functional Programming", "Play Framework"],
+    "years_of_experience": 9,
+    "preferred_roles": ["Scala Developer", "Big Data Engineer"],
+    "availability_timezone": "EST",
+    "project_interests": ["Distributed data processing", "Reactive systems", "High-concurrency applications"]
+  },
+  {
+    "name": "Ashley Stewart",
+    "handle": "ash_stewart_ui",
+    "skill_tags": ["UI Design", "Figma", "Zeplin", "Design Systems", "Mobile First Design", "Prototyping"],
+    "years_of_experience": 3,
+    "preferred_roles": ["UI Designer", "Visual Designer"],
+    "availability_timezone": "MST",
+    "project_interests": ["Creating intuitive interfaces", "Brand identity", "Microinteractions"]
+  },
+  {
+    "name": "Kevin Morris",
+    "handle": "kevin_morris_sap",
+    "skill_tags": ["SAP (FI/CO, SD, MM)", "ABAP", "SAP HANA", "Business Process Analysis", "SAP Implementation"],
+    "years_of_experience": 12,
+    "preferred_roles": ["SAP Consultant", "SAP Functional Analyst"],
+    "availability_timezone": "CET",
+    "project_interests": ["SAP S/4HANA migration", "Business process re-engineering", "SAP integration projects"]
+  },
+  {
+    "name": "Jessica Rogers",
+    "handle": "jess_rogers_cyberlaw",
+    "skill_tags": ["Cybersecurity Law", "Data Privacy (GDPR, CCPA)", "Policy Development", "Legal Research", "Incident Response Legal"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Cybersecurity Legal Counsel", "Data Privacy Officer"],
+    "availability_timezone": "EST",
+    "project_interests": ["Emerging tech legal issues", "Privacy by Design", "Cross-border data transfer"]
+  },
+  {
+    "name": "Justin Reed",
+    "handle": "justin_reed_quant",
+    "skill_tags": ["Python", "C++", "Quantitative Analysis", "Financial Modeling", "Machine Learning (for finance)"],
+    "years_of_experience": 8,
+    "preferred_roles": ["Quantitative Analyst", "Financial Engineer"],
+    "availability_timezone": "GMT",
+    "project_interests": ["Algorithmic trading", "Risk management models", "Market prediction"]
+  },
+  {
+    "name": "Brittany Cook",
+    "handle": "britt_cook_hr_tech",
+    "skill_tags": ["HRIS (Workday, SAP SuccessFactors)", "Talent Acquisition Systems", "HR Analytics", "Project Management", "Change Management"],
+    "years_of_experience": 7,
+    "preferred_roles": ["HR Technology Specialist", "HRIS Analyst"],
+    "availability_timezone": "PST",
+    "project_interests": ["Implementing HR tech solutions", "Improving HR processes with technology", "Employee experience platforms"]
+  },
+  {
+    "name": "Jordan Bell",
+    "handle": "jbell_motion",
+    "skill_tags": ["After Effects", "Cinema 4D", "Motion Graphics", "Video Editing (Premiere Pro)", "Storyboarding"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Motion Graphics Designer", "Video Editor"],
+    "availability_timezone": "EST",
+    "project_interests": ["Brand animations", "Explainer videos", "Visual effects for short films"]
+  },
+  {
+    "name": "Morgan Bailey",
+    "handle": "m_bailey_devrel",
+    "skill_tags": ["Developer Relations", "Public Speaking", "Technical Writing", "Community Management", "Python", "APIs"],
+    "years_of_experience": 8,
+    "preferred_roles": ["Developer Advocate", "Technical Community Manager"],
+    "availability_timezone": "PST",
+    "project_interests": ["Building developer communities", "Creating educational content", "Open source advocacy"]
+  },
+  {
+    "name": "Taylor Rivera",
+    "handle": "taylor_r_ecommerce",
+    "skill_tags": ["Shopify", "Magento", "WooCommerce", "E-commerce Strategy", "Conversion Rate Optimization (CRO)", "Google Ads"],
+    "years_of_experience": 7,
+    "preferred_roles": ["E-commerce Specialist", "Digital Marketing Manager (E-com focus)"],
+    "availability_timezone": "CST",
+    "project_interests": ["Scaling online stores", "DTC brand growth", "Omnichannel retail strategies"]
+  },
+  {
+    "name": "Casey Cooper",
+    "handle": "casey_coop_audio",
+    "skill_tags": ["Audio Engineering", "Pro Tools", "Sound Design", "Mixing & Mastering", "Field Recording"],
+    "years_of_experience": 10,
+    "preferred_roles": ["Audio Engineer", "Sound Designer (Games/Film)"],
+    "availability_timezone": "MST",
+    "project_interests": ["Podcast production", "Game audio implementation", "Film sound post-production"]
+  },
+  {
+    "name": "Riley Howard",
+    "handle": "riley_h_robotics",
+    "skill_tags": ["ROS (Robot Operating System)", "C++", "Python", "SLAM", "Computer Vision", "Control Systems"],
+    "years_of_experience": 5,
+    "preferred_roles": ["Robotics Engineer", "AI/Robotics Researcher"],
+    "availability_timezone": "CET",
+    "project_interests": ["Autonomous navigation", "Human-robot interaction", "Industrial automation"]
+  },
+  {
+    "name": "Jamie Ward",
+    "handle": "jamie_ward_illustrator",
+    "skill_tags": ["Digital Illustration", "Adobe Illustrator", "Procreate", "Character Design", "Concept Art"],
+    "years_of_experience": 4,
+    "preferred_roles": ["Illustrator", "Concept Artist"],
+    "availability_timezone": "GMT",
+    "project_interests": ["Children's book illustration", "Game asset creation", "Editorial illustration"]
+  },
+  {
+    "name": "Avery Cox",
+    "handle": "a_cox_cloud_native",
+    "skill_tags": ["Kubernetes", "Istio", "Serverless (AWS Lambda, Google Cloud Functions)", "Go", "Observability"],
+    "years_of_experience": 9,
+    "preferred_roles": ["Cloud Native Architect", "Principal DevOps Engineer"],
+    "availability_timezone": "PST",
+    "project_interests": ["Microservice mesh architectures", "Building resilient systems", "Serverless adoption"]
+  },
+  {
+    "name": "Skyler Flores",
+    "handle": "skylerf_accessibility",
+    "skill_tags": ["Web Accessibility (WCAG, ARIA)", "Assistive Technologies", "Accessibility Auditing", "JavaScript", "HTML/CSS"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Accessibility Specialist", "Frontend Developer (Accessibility focus)"],
+    "availability_timezone": "EST",
+    "project_interests": ["Inclusive design advocacy", "Remediating accessibility issues", "Building accessible components"]
+  },
+  {
+    "name": "Dakota Price",
+    "handle": "d_price_biomed",
+    "skill_tags": ["Biomedical Engineering", "Medical Device Design", "SolidWorks", "MATLAB", "FDA Regulations"],
+    "years_of_experience": 7,
+    "preferred_roles": ["Biomedical Engineer", "Medical Device R&D Engineer"],
+    "availability_timezone": "CST",
+    "project_interests": ["Wearable health tech", "Prosthetics development", "Clinical trials support"]
+  },
+  {
+    "name": "Alexis Bennett",
+    "handle": "alexis_b_growth",
+    "skill_tags": ["Growth Hacking", "A/B Testing", "SEO/SEM", "Data Analysis (Mixpanel, Amplitude)", "User Acquisition"],
+    "years_of_experience": 5,
+    "preferred_roles": ["Growth Marketer", "Product Growth Manager"],
+    "availability_timezone": "MST",
+    "project_interests": ["Early-stage startup growth", "Viral marketing campaigns", "Optimizing conversion funnels"]
+  },
+  {
+    "name": "Kai Bryant",
+    "handle": "kai_bryant_iot_sec",
+    "skill_tags": ["IoT Security", "Firmware Analysis", "Reverse Engineering", "Embedded Systems", "Network Protocols (MQTT, CoAP)"],
+    "years_of_experience": 8,
+    "preferred_roles": ["IoT Security Researcher", "Embedded Security Engineer"],
+    "availability_timezone": "JST",
+    "project_interests": ["Secure boot mechanisms", "Vulnerability discovery in IoT devices", "Developing secure IoT architectures"]
+  },
+  {
+    "name": "Drew Alexander",
+    "handle": "drew_alex_writer_tech",
+    "skill_tags": ["Content Writing (Tech)", "Blogging", "SEO Writing", "Copywriting", "Technical Editing"],
+    "years_of_experience": 4,
+    "preferred_roles": ["Technical Content Writer", "Marketing Copywriter (Tech)"],
+    "availability_timezone": "IST",
+    "project_interests": ["Explaining complex tech simply", "Startup blogs", "Website copy for SaaS"]
+  },
+  {
+    "name": "Reese Patterson",
+    "handle": "reese_p_legal_tech",
+    "skill_tags": ["Legal Tech", "E-Discovery", "Contract Management Software", "Legal Research Platforms", "Project Management"],
+    "years_of_experience": 9,
+    "preferred_roles": ["Legal Technology Specialist", "Paralegal (Tech Focus)"],
+    "availability_timezone": "EST",
+    "project_interests": ["Implementing legal software", "Automating legal workflows", "Data privacy in legal tech"]
+  },
+  {
+    "name": "Rowan Griffin",
+    "handle": "rowan_g_geospatial",
+    "skill_tags": ["GIS (ArcGIS, QGIS)", "Remote Sensing", "Geospatial Data Analysis", "Python (GeoPandas, Rasterio)", "Cartography"],
+    "years_of_experience": 6,
+    "preferred_roles": ["GIS Analyst", "Geospatial Data Scientist"],
+    "availability_timezone": "PST",
+    "project_interests": ["Environmental monitoring", "Urban planning applications", "Satellite imagery analysis"]
+  },
+  {
+    "name": "Finley Hayes",
+    "handle": "fin_hayes_noc",
+    "skill_tags": ["NOC Operations", "Network Monitoring (SolarWinds, Nagios)", "Incident Management", "Troubleshooting Tier 1/2", "Linux/Windows Server Admin"],
+    "years_of_experience": 7,
+    "preferred_roles": ["NOC Engineer", "IT Operations Analyst"],
+    "availability_timezone": "UTC",
+    "project_interests": ["Improving monitoring systems", "Automating NOC tasks", "Ensuring high availability"]
+  },
+  {
+    "name": "Harley Simmons",
+    "handle": "harley_s_elearning",
+    "skill_tags": ["Articulate Storyline", "Adobe Captivate", "LMS (Moodle, Canvas)", "Instructional Design", "SCORM/xAPI"],
+    "years_of_experience": 5,
+    "preferred_roles": ["E-Learning Developer", "Instructional Technologist"],
+    "availability_timezone": "AEST",
+    "project_interests": ["Interactive simulations", "Gamified learning experiences", "Mobile learning content"]
+  },
+  {
+    "name": "Blake Foster",
+    "handle": "blake_f_sre",
+    "skill_tags": ["Site Reliability Engineering (SRE)", "Kubernetes", "Prometheus", "Terraform", "Go", "Python", "On-call"],
+    "years_of_experience": 10,
+    "preferred_roles": ["Senior SRE", "Staff SRE"],
+    "availability_timezone": "CET",
+    "project_interests": ["Building self-healing systems", "Error budgets and SLOs", "Chaos engineering"]
+  },
+  {
+    "name": "Kendall Sanders",
+    "handle": "kendall_s_ux_writer",
+    "skill_tags": ["UX Writing", "Microcopy", "Content Strategy", "User Research", "Figma", "A/B Testing Content"],
+    "years_of_experience": 4,
+    "preferred_roles": ["UX Writer", "Content Designer"],
+    "availability_timezone": "EST",
+    "project_interests": ["Crafting clear and concise UI text", "Voice and tone development", "Information architecture"]
+  },
+  {
+    "name": "Sydney Powell",
+    "handle": "syd_powell_fintech",
+    "skill_tags": ["Fintech", "Payment Gateways (Stripe, PayPal)", "Regulatory Compliance (PCI DSS)", "API Integration", "Java", "SQL"],
+    "years_of_experience": 8,
+    "preferred_roles": ["Fintech Software Engineer", "Payments Specialist"],
+    "availability_timezone": "GMT",
+    "project_interests": ["Building secure payment solutions", "Blockchain in finance", "Open banking APIs"]
+  },
+  {
+    "name": "Emerson Coleman",
+    "handle": "emerson_c_data_gov",
+    "skill_tags": ["Data Governance", "Data Quality", "Master Data Management (MDM)", "Data Lineage", "Collibra", "SQL"],
+    "years_of_experience": 9,
+    "preferred_roles": ["Data Governance Lead", "Data Steward"],
+    "availability_timezone": "CST",
+    "project_interests": ["Establishing data governance frameworks", "Improving data quality across enterprise", "Data catalog implementation"]
+  },
+  {
+    "name": "Quinn Butler",
+    "handle": "quinn_b_cloud_cost",
+    "skill_tags": ["Cloud Cost Optimization (AWS, Azure, GCP)", "FinOps", "Budgeting & Forecasting", "Cost Monitoring Tools", "Scripting (Python)"],
+    "years_of_experience": 6,
+    "preferred_roles": ["FinOps Analyst", "Cloud Cost Management Specialist"],
+    "availability_timezone": "PST",
+    "project_interests": ["Developing cost-saving strategies for cloud", "Automating cost reporting", "Showback/Chargeback models"]
+  },
+  {
+    "name": "Charlie Gray",
+    "handle": "charlie_g_automotive_sw",
+    "skill_tags": ["Automotive Software (AUTOSAR)", "Embedded C", "CAN/LIN protocols", "Vector CANoe/CANalyzer", "MISRA C"],
+    "years_of_experience": 7,
+    "preferred_roles": ["Automotive Software Engineer", "Embedded Systems (Automotive)"],
+    "availability_timezone": "CET",
+    "project_interests": ["ADAS development", "In-vehicle infotainment (IVI)", "Functional safety (ISO 26262)"]
+  },
+  {
+    "name": "Hayden Price",
+    "handle": "hayden_price_quantum",
+    "skill_tags": ["Quantum Computing", "Qiskit", "Cirq", "Python", "Linear Algebra", "Quantum Algorithms"],
+    "years_of_experience": 3,
+    "preferred_roles": ["Quantum Computing Researcher", "Quantum Software Engineer (Junior)"],
+    "availability_timezone": "EST",
+    "project_interests": ["Exploring quantum machine learning", "Developing novel quantum algorithms", "Quantum error correction"]
+  },
+  {
+    "name": "River Barnes",
+    "handle": "river_b_edtech",
+    "skill_tags": ["EdTech Product Management", "Learning Analytics", "User Research (Education)", "Agile", "JIRA", "LMS Integration"],
+    "years_of_experience": 8,
+    "preferred_roles": ["Product Manager (EdTech)", "Educational Technologist"],
+    "availability_timezone": "MST",
+    "project_interests": ["Personalized learning platforms", "AI in education", "Teacher-facing tools"]
+  },
+  {
+    "name": "London Ross",
+    "handle": "london_ross_cg",
+    "skill_tags": ["3D Animation (Maya, Blender)", "Rigging", "Texturing (Substance Painter)", "Rendering (Arnold, Cycles)", "VFX Compositing (Nuke)"],
+    "years_of_experience": 5,
+    "preferred_roles": ["3D Animator", "CG Generalist"],
+    "availability_timezone": "PST",
+    "project_interests": ["Character animation for film/games", "Photorealistic rendering", "Visual effects sequences"]
+  },
+  {
+    "name": "Sawyer Henderson",
+    "handle": "sawyer_h_salesforce_dev",
+    "skill_tags": ["Salesforce Development (Apex, LWC, Visualforce)", "Salesforce Admin", "SOQL", "API Integrations", "Sales Cloud/Service Cloud"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Salesforce Developer", "Salesforce Technical Consultant"],
+    "availability_timezone": "CST",
+    "project_interests": ["Custom Salesforce applications", "Automating business processes in Salesforce", "Integrating Salesforce with other systems"]
+  },
+  {
+    "name": "Parker Jenkins",
+    "handle": "parker_j_threat_intel",
+    "skill_tags": ["Threat Intelligence", "Malware Analysis (Static/Dynamic)", "OSINT", "YARA", "MITRE ATT&CK"],
+    "years_of_experience": 7,
+    "preferred_roles": ["Threat Intelligence Analyst", "Cybersecurity Researcher"],
+    "availability_timezone": "EST",
+    "project_interests": ["Tracking APT groups", "Developing threat actor profiles", "Automating threat feed ingestion"]
+  },
+  {
+    "name": "Teagan Perry",
+    "handle": "teagan_p_erp",
+    "skill_tags": ["ERP Systems (NetSuite, Oracle ERP Cloud)", "Business Process Mapping", "Data Migration", "System Configuration", "Reporting"],
+    "years_of_experience": 10,
+    "preferred_roles": ["ERP Consultant", "ERP Business Analyst"],
+    "availability_timezone": "GMT",
+    "project_interests": ["ERP implementation projects", "Optimizing ERP usage for businesses", "Cloud ERP solutions"]
+  },
+  {
+    "name": "Jordan Kelly",
+    "handle": "j_kelly_gaming_pm",
+    "skill_tags": ["Game Product Management", "LiveOps", "Monetization Strategy", "A/B Testing (Games)", "Player Analytics", "Agile"],
+    "years_of_experience": 9,
+    "preferred_roles": ["Senior Product Manager (Games)", "Head of Product (Mobile Games)"],
+    "availability_timezone": "PST",
+    "project_interests": ["Free-to-play game economies", "User retention strategies", "New game development from concept to launch"]
+  },
+  {
+    "name": "Dakota Long",
+    "handle": "dakota_long_actuary",
+    "skill_tags": ["Actuarial Science", "Statistical Modeling", "Risk Analysis", "Excel (VBA)", "SQL", "R (for Actuarial)"],
+    "years_of_experience": 5,
+    "preferred_roles": ["Actuarial Analyst", "Risk Modeler"],
+    "availability_timezone": "EST",
+    "project_interests": ["Insurance pricing", "Reserve estimation", "Predictive modeling for financial risk"]
+  },
+  {
+    "name": "Shiloh Hughes",
+    "handle": "shiloh_h_pharma_data",
+    "skill_tags": ["Pharmaceutical Data Analysis", "Clinical Trial Data (CDISC Standards)", "SAS", "R", "SQL", "Statistical Analysis"],
+    "years_of_experience": 7,
+    "preferred_roles": ["Clinical Data Analyst", "Statistical Programmer (Pharma)"],
+    "availability_timezone": "CET",
+    "project_interests": ["Efficacy and safety analysis", "Regulatory submissions support", "Real-world evidence studies"]
+  },
+  {
+    "name": "Phoenix Simmons",
+    "handle": "phoenix_s_sustain",
+    "skill_tags": ["Sustainability Consulting", "ESG Reporting", "Carbon Footprinting", "Life Cycle Assessment (LCA)", "Circular Economy"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Sustainability Analyst", "ESG Consultant"],
+    "availability_timezone": "PST",
+    "project_interests": ["Developing corporate sustainability strategies", "Climate risk assessment", "Sustainable supply chains"]
+  },
+  {
+    "name": "Remy Washington",
+    "handle": "remy_w_aviation_tech",
+    "skill_tags": ["Aviation Software", "Flight Planning Systems", "Aerospace Engineering Principles", "Data Analysis (Flight Data)", "Python"],
+    "years_of_experience": 8,
+    "preferred_roles": ["Aviation Technology Specialist", "Aerospace Software Engineer"],
+    "availability_timezone": "CST",
+    "project_interests": ["Optimizing flight operations", "Next-generation air traffic management", "Unmanned Aerial Systems (UAS) software"]
+  },
+  {
+    "name": "Justice Foster",
+    "handle": "justice_f_sports_analytics",
+    "skill_tags": ["Sports Analytics", "Python (Pandas, Scikit-learn)", "SQL", "Tableau", "Statistical Modeling (Sports)"],
+    "years_of_experience": 4,
+    "preferred_roles": ["Sports Data Analyst", "Performance Analyst"],
+    "availability_timezone": "EST",
+    "project_interests": ["Player performance modeling", "Game strategy optimization", "Fan engagement analytics"]
+  },
+  {
+    "name": "Milan Brooks",
+    "handle": "milan_b_crm_admin",
+    "skill_tags": ["CRM Administration (Salesforce, HubSpot)", "User Training", "Workflow Automation", "Data Cleansing", "Reporting Dashboards"],
+    "years_of_experience": 5,
+    "preferred_roles": ["CRM Administrator", "Sales Operations Analyst"],
+    "availability_timezone": "MST",
+    "project_interests": ["Optimizing CRM for sales teams", "Integrating CRM with other business tools", "Improving data quality in CRM"]
+  },
+  {
+    "name": "Oakley Murphy",
+    "handle": "oakley_m_health_it",
+    "skill_tags": ["Healthcare IT", "EHR/EMR Systems (Epic, Cerner)", "HL7/FHIR", "HIPAA Compliance", "System Integration"],
+    "years_of_experience": 11,
+    "preferred_roles": ["Healthcare IT Analyst", "Integration Engineer (Healthcare)"],
+    "availability_timezone": "PST",
+    "project_interests": ["Interoperability projects", "Telehealth solutions", "Clinical decision support systems"]
+  },
+  {
+    "name": "Indigo Bell",
+    "handle": "indigo_b_localization",
+    "skill_tags": ["Localization Project Management", "Translation Management Systems (TMS)", "CAT Tools (Trados, MemoQ)", "Internationalization (i18n)", "Quality Assurance (LQA)"],
+    "years_of_experience": 7,
+    "preferred_roles": ["Localization Manager", "Globalization Specialist"],
+    "availability_timezone": "CET",
+    "project_interests": ["Software localization", "Website globalization", "Managing multilingual content workflows"]
+  },
+  {
+    "name": "Armani Coleman",
+    "handle": "armani_c_logistics",
+    "skill_tags": ["Supply Chain Management", "Logistics Software (WMS, TMS)", "Inventory Optimization", "Data Analysis", "Process Improvement"],
+    "years_of_experience": 9,
+    "preferred_roles": ["Supply Chain Analyst", "Logistics Manager"],
+    "availability_timezone": "EST",
+    "project_interests": ["Warehouse efficiency", "Transportation network optimization", "Demand forecasting"]
+  },
+  {
+    "name": "Dallas Gray",
+    "handle": "dallas_g_genomics",
+    "skill_tags": ["Genomics", "Next-Generation Sequencing (NGS) Data Analysis", "Bioinformatics Pipelines", "Python (Biopython)", "R (Bioconductor)", "Cloud Computing (for Genomics)"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Genomics Data Scientist", "Bioinformatician"],
+    "availability_timezone": "PST",
+    "project_interests": ["Variant calling", "Transcriptomics (RNA-Seq)", "Cancer genomics research"]
+  },
+  {
+    "name": "Haven Price",
+    "handle": "haven_p_gov_tech",
+    "skill_tags": ["Government Technology (GovTech)", "Public Sector IT Projects", "Civic Tech", "Agile (in Government)", "Data Transparency"],
+    "years_of_experience": 8,
+    "preferred_roles": ["GovTech Consultant", "Digital Transformation Lead (Public Sector)"],
+    "availability_timezone": "CST",
+    "project_interests": ["Modernizing government services", "Open data initiatives", "Citizen engagement platforms"]
+  },
+  {
+    "name": "Lyric Barnes",
+    "handle": "lyric_b_soc_analyst",
+    "skill_tags": ["SOC Analyst", "SIEM (Splunk, QRadar)", "Incident Response", "Log Analysis", "Network Security Monitoring", "Threat Hunting"],
+    "years_of_experience": 3,
+    "preferred_roles": ["Security Operations Center (SOC) Analyst", "Junior Cybersecurity Analyst"],
+    "availability_timezone": "MST",
+    "project_interests": ["Detecting and responding to security incidents", "Improving SIEM rules", "Learning new attack vectors"]
+  },
+  {
+    "name": "Royal Ross",
+    "handle": "royal_r_ai_ethics",
+    "skill_tags": ["AI Ethics", "Responsible AI", "Fairness, Accountability, Transparency (FAT)", "Policy Research", "Philosophy of Technology"],
+    "years_of_experience": 5,
+    "preferred_roles": ["AI Ethicist", "Responsible AI Researcher"],
+    "availability_timezone": "GMT",
+    "project_interests": ["Developing ethical guidelines for AI", "Bias detection and mitigation in ML", "Societal impact of AI"]
+  },
+  {
+    "name": "Legacy Henderson",
+    "handle": "legacy_h_cloud_finops",
+    "skill_tags": ["Cloud FinOps", "AWS Cost Explorer", "Azure Cost Management", "Reserved Instances/Savings Plans", "Budgeting", "Showback/Chargeback"],
+    "years_of_experience": 7,
+    "preferred_roles": ["Cloud FinOps Manager", "Senior Cloud Cost Analyst"],
+    "availability_timezone": "PST",
+    "project_interests": ["Building FinOps culture", "Automating cost optimization recommendations", "Cloud financial governance"]
+  },
+  {
+    "name": "Journey Jenkins",
+    "handle": "journey_j_animation_prod",
+    "skill_tags": ["Animation Production Management", "Shotgun/Ftrack", "Scheduling", "Budgeting", "Team Coordination", "Pipeline Management"],
+    "years_of_experience": 9,
+    "preferred_roles": ["Animation Producer", "Production Manager (Animation)"],
+    "availability_timezone": "EST",
+    "project_interests": ["Feature film animation", "Episodic TV animation", "Managing creative teams"]
+  },
+  {
+    "name": "Story Perry",
+    "handle": "story_p_data_journalism",
+    "skill_tags": ["Data Journalism", "Data Visualization (Tableau, Flourish)", "Investigative Reporting", "Python (for data analysis)", "SQL", "FOIA Requests"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Data Journalist", "Investigative Data Reporter"],
+    "availability_timezone": "CST",
+    "project_interests": ["Uncovering stories through data", "Public interest journalism", "Creating interactive data narratives"]
+  },
+  {
+    "name": "Aarav Sharma",
+    "handle": "aarav.sdevops",
+    "skill_tags": [
+      "AWS",
+      "Ansible",
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "Python",
+      "Terraform"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Cloud Architect",
+      "DevOps Engineer",
+      "Site Reliability Engineer (SRE)"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Cloud-native solutions development",
+      "Infrastructure as Code (IaC) implementation",
+      "Optimizing CI/CD pipelines",
+      "Serverless application architecture"
+    ]
+  },
+  {
+    "name": "Saanvi Patel",
+    "handle": "saanvip_datasci99",
+    "skill_tags": [
+      "Data Analysis",
+      "Machine Learning",
+      "NLP",
+      "Pandas",
+      "Python",
+      "Scikit-learn",
+      "TensorFlow"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Data Scientist",
+      "Machine Learning Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "AI-powered applications",
+      "Building recommendation systems",
+      "NLP for chatbots and text analysis"
+    ]
+  },
+  {
+    "name": "Advait Kumar",
+    "handle": "advait.k_fullstack",
+    "skill_tags": [
+      "Angular",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "React",
+      "Spring Boot",
+      "TypeScript"
+    ],
+    "years_of_experience": 10,
+    "preferred_roles": [
+      "Full Stack Developer",
+      "Senior Software Engineer",
+      "Technical Lead"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Developing scalable microservices",
+      "E-commerce platform development",
+      "Real-time data streaming applications"
+    ]
+  },
+  {
+    "name": "Ananya Reddy",
+    "handle": "ananya_r_mobiledev",
+    "skill_tags": [
+      "Android",
+      "Firebase",
+      "Flutter",
+      "Java",
+      "Kotlin",
+      "Swift"
+    ],
+    "years_of_experience": 6,
+    "preferred_roles": [
+      "Mobile Developer (Android)",
+      "Mobile Developer (iOS)"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Improving user experience (UX) for web/mobile",
+      "Mobile application development",
+      "Sustainable technology solutions"
+    ]
+  },
+  {
+    "name": "Vihaan Singh",
+    "handle": "v.singh_cybersec",
+    "skill_tags": [
+      "Cybersecurity",
+      "Ethical Hacking",
+      "Network Security",
+      "Penetration Testing",
+      "SIEM",
+      "Cryptography"
+    ],
+    "years_of_experience": 12,
+    "preferred_roles": [
+      "Cybersecurity Analyst",
+      "Security Engineer"
+    ],
+    "availability_timezone": "GMT",
+    "project_interests": [
+      "Cybersecurity framework development",
+      "Developing security tools",
+      "Threat intelligence"
+    ]
+  },
+  {
+    "name": "Myra Gupta",
+    "handle": "myrag_uiux_guru",
+    "skill_tags": [
+      "Adobe XD",
+      "Figma",
+      "Interaction Design",
+      "Sketch",
+      "UI/UX Design",
+      "User Research"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Product Designer",
+      "UI/UX Designer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "AR/VR experiences",
+      "Improving user experience (UX) for web/mobile",
+      "User-centric design projects"
+    ]
+  },
+  {
+    "name": "Rohan Iyer",
+    "handle": "rohan.iyer.cloud",
+    "skill_tags": [
+      "Azure",
+      "C#",
+      ".NET Core",
+      "Google Cloud Platform (GCP)",
+      "PowerBI",
+      "SQL Server"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "Cloud Architect",
+      "Solutions Architect",
+      "Software Engineer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Big data processing and analytics",
+      "Cloud-native solutions development",
+      "Data warehousing solutions"
+    ]
+  },
+  {
+    "name": "Ishita Mehta",
+    "handle": "ishita_m_pm",
+    "skill_tags": [
+      "Agile Methodologies",
+      "JIRA",
+      "Product Management",
+      "Roadmap Planning",
+      "Scrum",
+      "User Stories"
+    ],
+    "years_of_experience": 11,
+    "preferred_roles": [
+      "AI/ML Product Manager",
+      "Product Manager",
+      "Technical Program Manager"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "AI ethics and responsible AI",
+      "EdTech platform creation",
+      "FinTech innovations"
+    ]
+  },
+  {
+    "name": "Arjun Menon",
+    "handle": "arjunmenon_backend",
+    "skill_tags": [
+      "API Development",
+      "Django",
+      "Flask",
+      "Go",
+      "Microservices",
+      "Python",
+      "Redis"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "Backend Developer",
+      "Software Engineer"
+    ],
+    "availability_timezone": "SGT",
+    "project_interests": [
+      "API design and management",
+      "Developing scalable microservices",
+      "Real-time data streaming applications"
+    ]
+  },
+  {
+    "name": "Priya Das",
+    "handle": "priyadas_dataeng",
+    "skill_tags": [
+      "Apache Spark",
+      "Data Engineering",
+      "Data Warehousing",
+      "ETL Pipelines",
+      "Hadoop",
+      "Kafka",
+      "SQL"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Data Engineer",
+      "Big Data Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Big data processing and analytics",
+      "Building data lakes and data warehouses",
+      "Real-time data streaming applications"
+    ]
+  },
+  {
+    "name": "Kabir Shah",
+    "handle": "kabir.s_game_dev",
+    "skill_tags": [
+      "C#",
+      "C++",
+      "Game Development (Unity)",
+      "Game Development (Unreal Engine)",
+      "Blender",
+      "Physics Engines"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Game Developer",
+      "Gameplay Programmer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "AR/VR experiences",
+      "Game development",
+      "Multiplayer game design"
+    ]
+  },
+  {
+    "name": "Diya Pillai",
+    "handle": "diya_p_qae",
+    "skill_tags": [
+      "Cypress",
+      "JUnit",
+      "Playwright",
+      "QA Automation",
+      "Selenium",
+      "TestNG",
+      "Performance Testing"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Automation Engineer",
+      "QA Lead",
+      "SDET"
+    ],
+    "availability_timezone": "CET",
+    "project_interests": [
+      "Automated testing frameworks",
+      "CI/CD integration for testing",
+      "Performance and scalability testing"
+    ]
+  },
+  {
+    "name": "Mohammed Khan",
+    "handle": "mo_khan_blockchain",
+    "skill_tags": [
+      "Blockchain",
+      "Cryptography",
+      "Ethereum",
+      "Hyperledger Fabric",
+      "Smart Contracts",
+      "Solidity"
+    ],
+    "years_of_experience": 6,
+    "preferred_roles": [
+      "Blockchain Developer",
+      "Smart Contract Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Blockchain technology applications",
+      "Decentralized Finance (DeFi)",
+      "NFT marketplaces"
+    ]
+  },
+  {
+    "name": "Navya Rao",
+    "handle": "navyar_iot_eng",
+    "skill_tags": [
+      "C",
+      "C++",
+      "Embedded Systems",
+      "IoT",
+      "MQTT",
+      "Python",
+      "Raspberry Pi"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Embedded Systems Engineer",
+      "IoT Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Edge computing applications",
+      "IoT and smart device integration",
+      "Smart city projects"
+    ]
+  },
+  {
+    "name": "Sai Choudhary",
+    "handle": "saich_research",
+    "skill_tags": [
+      "Algorithm Design",
+      "Deep Learning",
+      "Machine Learning",
+      "Python",
+      "PyTorch",
+      "Research Methodologies"
+    ],
+    "years_of_experience": 10,
+    "preferred_roles": [
+      "AI Engineer",
+      "Machine Learning Engineer",
+      "Research Scientist"
+    ],
+    "availability_timezone": "JST",
+    "project_interests": [
+      "AI ethics and responsible AI",
+      "Computer vision for image recognition",
+      "Quantum algorithm development"
+    ]
+  },
+  {
+    "name": "Kriti Malhotra",
+    "handle": "kriti_m_frontend",
+    "skill_tags": [
+      "CSS3",
+      "HTML5",
+      "JavaScript",
+      "React",
+      "SASS",
+      "Vue.js",
+      "Webpack"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Frontend Developer",
+      "UI Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Building accessible web applications",
+      "Improving user experience (UX) for web/mobile",
+      "Progressive Web Apps (PWAs)"
+    ]
+  },
+  {
+    "name": "Yash Joshi",
+    "handle": "yash_j_dba_master",
+    "skill_tags": [
+      "Database Administration",
+      "MongoDB",
+      "MySQL",
+      "Oracle",
+      "Performance Tuning",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "years_of_experience": 15,
+    "preferred_roles": [
+      "Database Administrator",
+      "Data Architect"
+    ],
+    "availability_timezone": "AEDT",
+    "project_interests": [
+      "Big data processing and analytics",
+      "Data security and compliance",
+      "Optimizing database performance"
+    ]
+  },
+  {
+    "name": "Ahana Bansal",
+    "handle": "ahana.b.analyst",
+    "skill_tags": [
+      "Business Analysis",
+      "Data Analysis",
+      "Excel",
+      "PowerBI",
+      "SQL",
+      "Tableau"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Junior Data Scientist"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Data visualization and reporting tools",
+      "Market research analysis",
+      "Process improvement projects"
+    ]
+  },
+  {
+    "name": "Shaurya Soni",
+    "handle": "shaurya_s_architect",
+    "skill_tags": [
+      "AWS",
+      "Azure",
+      "Distributed Systems",
+      "Microservices",
+      "Software Architecture",
+      "System Design"
+    ],
+    "years_of_experience": 18,
+    "preferred_roles": [
+      "Principal Engineer",
+      "Solutions Architect",
+      "Staff Engineer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Cloud-native solutions development",
+      "Developing scalable microservices",
+      "High-availability systems"
+    ]
+  },
+  {
+    "name": "Trisha Goel",
+    "handle": "trishagoel_cloudsec",
+    "skill_tags": [
+      "AWS Security",
+      "Azure Security",
+      "Cloud Security",
+      "Compliance",
+      "DevSecOps",
+      "Kubernetes Security"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "Cloud Security Engineer",
+      "Security Architect"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Automating security compliance",
+      "Cloud security posture management",
+      "Zero trust architecture"
+    ]
+  },
+  {
+    "name": "Aryan Singhania",
+    "handle": "aryan.s_mlops",
+    "skill_tags": [
+      "Airflow",
+      "Docker",
+      "Kubeflow",
+      "Kubernetes",
+      "MLOps",
+      "Python",
+      "Terraform"
+    ],
+    "years_of_experience": 6,
+    "preferred_roles": [
+      "AI Engineer",
+      "DevOps Engineer",
+      "Machine Learning Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Building MLOps pipelines",
+      "Deploying ML models at scale",
+      "Reproducible ML workflows"
+    ]
+  },
+  {
+    "name": "Mira Murthy",
+    "handle": "mira.murthy.techlead",
+    "skill_tags": [
+      "Agile Methodologies",
+      "Java",
+      "Leadership",
+      "Mentoring",
+      "Project Management",
+      "Spring Boot",
+      "System Design"
+    ],
+    "years_of_experience": 14,
+    "preferred_roles": [
+      "Engineering Manager",
+      "Senior Software Engineer",
+      "Technical Lead"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Building high-performing teams",
+      "Developing scalable microservices",
+      "Mentoring junior engineers"
+    ]
+  },
+  {
+    "name": "Harsh Banerjee",
+    "handle": "harsh_b_robotics",
+    "skill_tags": [
+      "C++",
+      "Computer Vision",
+      "Control Systems",
+      "Python",
+      "ROS (Robot Operating System)",
+      "Robotics"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "Robotics Engineer",
+      "Automation Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Autonomous navigation",
+      "Human-robot interaction",
+      "Robotics process automation (RPA)"
+    ]
+  },
+  {
+    "name": "Juhi Chatterjee",
+    "handle": "juhi.c_webdev",
+    "skill_tags": [
+      "Angular",
+      "CSS3",
+      "HTML5",
+      "JavaScript",
+      "Node.js",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "years_of_experience": 1,
+    "preferred_roles": [
+      "Frontend Developer",
+      "Junior Software Engineer",
+      "Web Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Contributing to open-source projects",
+      "E-commerce platform development",
+      "Learning new web technologies"
+    ]
+  },
+  {
+    "name": "Pranav Dasgupta",
+    "handle": "pranav.d_bigdata",
+    "skill_tags": [
+      "Apache Flink",
+      "Apache Spark",
+      "Big Data",
+      "Data Engineering",
+      "Hadoop",
+      "Kafka",
+      "Scala"
+    ],
+    "years_of_experience": 11,
+    "preferred_roles": [
+      "Big Data Architect",
+      "Data Engineer",
+      "Staff Engineer"
+    ],
+    "availability_timezone": "GMT",
+    "project_interests": [
+      "Big data processing and analytics",
+      "Building data lakes and data warehouses",
+      "Real-time data streaming applications"
+    ]
+  }
+]
