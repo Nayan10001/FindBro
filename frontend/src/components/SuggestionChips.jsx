@@ -3,8 +3,8 @@ import './SuggestionChips.css';
 function SuggestionChips({ onChipClick }) {
   const suggestions = [
     { label: 'Full-Stack Engineer', query: 'Developers with full-stack experience' },
-    { label: 'Alumni Discovery', query: 'Alumni from top tech companies' },
-    { label: 'Deep People Research', query: 'Senior developers with AI/ML expertise' }
+    { label: 'Open Source Projects', query: 'Open source projects looking for contributors' },
+    { label: 'AI/ML Projects', query: 'Machine learning and AI projects' }
   ];
 
   return (
