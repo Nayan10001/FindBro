@@ -5,6 +5,7 @@ function StartupCard({ startup, animationDelay }) {
   const scorePercent = Math.round((startup.score || 0) * 100);
   
   const formatStage = (stage) => {
+    if (!stage) return 'unknown';
     return stage.replace(/_/g, ' ');
   };
 
@@ -19,6 +20,9 @@ function StartupCard({ startup, animationDelay }) {
     };
     return icons[stage] || '🏢';
   };
+
+  // Debug log to see what data we're receiving
+  console.log('StartupCard received:', startup);
 
   return (
     <div 
@@ -51,7 +55,7 @@ function StartupCard({ startup, animationDelay }) {
       <div className="startup-meta">
         <div className="startup-meta-item">
           <span className="startup-meta-icon">🏗️</span>
-          <div className={`startup-stage ${startup.stage}`}>
+          <div className={`startup-stage ${startup.stage || 'unknown'}`}>
             {getStageIcon(startup.stage)}
             {formatStage(startup.stage || 'unknown')}
           </div>
@@ -62,7 +66,7 @@ function StartupCard({ startup, animationDelay }) {
         <div>
           <div className="startup-section-title">Industries</div>
           <TagList 
-            items={startup.industries} 
+            items={startup.industries || []} 
             tagClass="interest" 
             emptyText="No industries specified" 
           />
@@ -71,7 +75,7 @@ function StartupCard({ startup, animationDelay }) {
         <div>
           <div className="startup-section-title">Technologies</div>
           <TagList 
-            items={startup.technologies} 
+            items={startup.technologies || []} 
             tagClass="tech" 
             emptyText="No technologies specified" 
           />
