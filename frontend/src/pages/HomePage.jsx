@@ -4,38 +4,42 @@ import Header from '../components/Header';
 import SearchContainer from '../components/SearchContainer';
 import ResultsContainer from '../components/ResultsContainer';
 import BackgroundAnimation from '../components/BackgroundAnimation';
+import SearchTypeIndicator from '../components/SearchTypeIndicator';
+import { detectSearchType } from '../utils/searchDetection';
 
 function HomePage() {
   const [searchResults, setSearchResults] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
   const [showNoResults, setShowNoResults] = useState(false);
+  const [detectedSearchType, setDetectedSearchType] = useState('developers');
+  const [showTypeIndicator, setShowTypeIndicator] = useState(false);
+  const [currentQuery, setCurrentQuery] = useState('');
   const navigate = useNavigate();
 
-  const handleSearch = async (query) => {
+  const handleSearch = async (query, forceType = null) => {
     if (!query.trim()) return;
 
-    // Check if the query seems to be looking for projects
-    const projectKeywords = [
-      'project', 'projects', 'contribute', 'collaboration', 'open source',
-      'startup', 'idea', 'build', 'working on', 'join project', 'help with'
-    ];
-    
-    const isProjectSearch = projectKeywords.some(keyword => 
-      query.toLowerCase().includes(keyword)
-    );
+    // Detect search type or use forced type
+    const searchType = forceType || detectSearchType(query);
+    setDetectedSearchType(searchType);
+    setCurrentQuery(query);
+    setShowTypeIndicator(true);
 
-    // If it seems like a project search, redirect to projects page
-    if (isProjectSearch) {
+    // Auto-redirect to appropriate page based on search type
+    if (searchType === 'projects') {
       navigate(`/projects?q=${encodeURIComponent(query)}`);
+      return;
+    } else if (searchType === 'startups') {
+      navigate(`/startups?q=${encodeURIComponent(query)}`);
       return;
     }
 
+    // Search for developer profiles (default or explicit)
     setIsLoading(true);
     setSearchResults([]);
     setShowNoResults(false);
 
     try {
-      // Search for developer profiles
       const response = await fetch(`http://localhost:8000/api/search?query=${encodeURIComponent(query)}`);
       
       if (!response.ok) {
@@ -63,12 +67,32 @@ function HomePage() {
     }
   };
 
+  const handleTypeChange = (newType) => {
+    setDetectedSearchType(newType);
+    
+    if (currentQuery) {
+      if (newType === 'projects') {
+        navigate(`/projects?q=${encodeURIComponent(currentQuery)}`);
+      } else if (newType === 'startups') {
+        navigate(`/startups?q=${encodeURIComponent(currentQuery)}`);
+      } else {
+        // Re-search for developers
+        handleSearch(currentQuery, 'developers');
+      }
+    }
+  };
+
   return (
     <div className="app">
       <BackgroundAnimation />
       <div className="container">
         <Header />
         <SearchContainer onSearch={handleSearch} />
+        <SearchTypeIndicator 
+          detectedType={detectedSearchType}
+          onTypeChange={handleTypeChange}
+          isVisible={showTypeIndicator}
+        />
         <ResultsContainer 
           results={searchResults}
           isLoading={isLoading}

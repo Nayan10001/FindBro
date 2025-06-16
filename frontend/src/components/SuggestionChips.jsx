@@ -2,9 +2,9 @@ import './SuggestionChips.css';
 
 function SuggestionChips({ onChipClick }) {
   const suggestions = [
-    { label: 'Full-Stack Engineer', query: 'Developers with full-stack experience' },
-    { label: 'Open Source Projects', query: 'Open source projects looking for contributors' },
-    { label: 'AI/ML Projects', query: 'Machine learning and AI projects' }
+    { label: 'Full-Stack Engineers', query: 'Full-stack developers with React and Node.js experience' },
+    { label: 'AI/ML Projects', query: 'Machine learning projects looking for contributors' },
+    { label: 'Fintech Startups', query: 'Fintech startups in seed stage' }
   ];
 
   return (
