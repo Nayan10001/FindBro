@@ -2,57 +2,150 @@ import TagList from './TagList';
 import './ProfileCard.css';
 
 function ProfileCard({ profile, animationDelay }) {
-  // Calculate a more meaningful match percentage
-  const calculateMatchPercentage = (profile) => {
-    let score = 0;
+  // Calculate criteria matches based on profile data
+  const calculateCriteriaMatches = (profile) => {
+    const criteria = [];
+    let totalScore = 0;
     let maxScore = 0;
+
+    // Check for AI/ML skills
+    const aiSkills = ['machine learning', 'ai', 'artificial intelligence', 'tensorflow', 'pytorch', 'scikit-learn', 'deep learning', 'neural networks'];
+    const hasAISkills = profile.skills?.some(skill => 
+      aiSkills.some(aiSkill => skill.toLowerCase().includes(aiSkill.toLowerCase()))
+    );
     
-    // Skills relevance (40% weight)
-    const skillsWeight = 0.4;
-    if (profile.skills && profile.skills.length > 0) {
-      score += Math.min(profile.skills.length / 10, 1) * skillsWeight * 100;
+    if (hasAISkills) {
+      criteria.push({
+        text: 'Works in AI',
+        status: 'yes',
+        icon: 'match'
+      });
+      totalScore += 2;
+    } else {
+      criteria.push({
+        text: 'Works in AI',
+        status: 'no',
+        icon: 'no-match'
+      });
     }
-    maxScore += skillsWeight * 100;
-    
-    // Experience relevance (30% weight)
-    const experienceWeight = 0.3;
-    if (profile.experience !== undefined) {
-      // Normalize experience (0-15 years scale)
-      const normalizedExp = Math.min(profile.experience / 15, 1);
-      score += normalizedExp * experienceWeight * 100;
+    maxScore += 2;
+
+    // Check for company experience (FANG-like companies)
+    const topCompanies = ['google', 'facebook', 'amazon', 'netflix', 'apple', 'microsoft', 'meta', 'tesla', 'uber', 'airbnb'];
+    const hasTopCompanyExp = profile.interests?.some(interest => 
+      topCompanies.some(company => interest.toLowerCase().includes(company.toLowerCase()))
+    ) || profile.roles?.some(role => 
+      topCompanies.some(company => role.toLowerCase().includes(company.toLowerCase()))
+    );
+
+    if (hasTopCompanyExp) {
+      criteria.push({
+        text: 'Works at top companies',
+        status: 'yes',
+        icon: 'match'
+      });
+      totalScore += 2;
+    } else if (profile.experience >= 3) {
+      criteria.push({
+        text: 'Works at top companies',
+        status: 'partial',
+        icon: 'partial'
+      });
+      totalScore += 1;
+    } else {
+      criteria.push({
+        text: 'Works at top companies',
+        status: 'no',
+        icon: 'no-match'
+      });
     }
-    maxScore += experienceWeight * 100;
-    
-    // Role match (20% weight)
-    const roleWeight = 0.2;
-    if (profile.roles && profile.roles.length > 0) {
-      score += Math.min(profile.roles.length / 5, 1) * roleWeight * 100;
+    maxScore += 2;
+
+    // Check for senior experience
+    const isSenior = profile.experience >= 5;
+    if (isSenior) {
+      criteria.push({
+        text: 'Senior level experience',
+        status: 'yes',
+        icon: 'match'
+      });
+      totalScore += 1;
+    } else if (profile.experience >= 2) {
+      criteria.push({
+        text: 'Senior level experience',
+        status: 'partial',
+        icon: 'partial'
+      });
+      totalScore += 0.5;
+    } else {
+      criteria.push({
+        text: 'Senior level experience',
+        status: 'no',
+        icon: 'no-match'
+      });
     }
-    maxScore += roleWeight * 100;
+    maxScore += 1;
+
+    // Check for full-stack capabilities
+    const frontendSkills = ['react', 'vue', 'angular', 'javascript', 'typescript', 'html', 'css'];
+    const backendSkills = ['node', 'python', 'java', 'go', 'rust', 'php', 'ruby', 'c#'];
     
-    // Profile completeness (10% weight)
-    const completenessWeight = 0.1;
-    let completenessScore = 0;
-    if (profile.name) completenessScore += 0.2;
-    if (profile.handle) completenessScore += 0.2;
-    if (profile.skills && profile.skills.length > 0) completenessScore += 0.2;
-    if (profile.roles && profile.roles.length > 0) completenessScore += 0.2;
-    if (profile.interests && profile.interests.length > 0) completenessScore += 0.2;
-    
-    score += completenessScore * completenessWeight * 100;
-    maxScore += completenessWeight * 100;
-    
-    // Use original score if available and higher
-    const originalScore = (profile.score || 0) * 100;
-    const calculatedScore = Math.round((score / maxScore) * 100);
-    
-    return Math.max(originalScore, calculatedScore, 65); // Minimum 65% for better UX
+    const hasFrontend = profile.skills?.some(skill => 
+      frontendSkills.some(fe => skill.toLowerCase().includes(fe.toLowerCase()))
+    );
+    const hasBackend = profile.skills?.some(skill => 
+      backendSkills.some(be => skill.toLowerCase().includes(be.toLowerCase()))
+    );
+
+    if (hasFrontend && hasBackend) {
+      criteria.push({
+        text: 'Full-stack capabilities',
+        status: 'yes',
+        icon: 'match'
+      });
+      totalScore += 1;
+    } else if (hasFrontend || hasBackend) {
+      criteria.push({
+        text: 'Full-stack capabilities',
+        status: 'partial',
+        icon: 'partial'
+      });
+      totalScore += 0.5;
+    } else {
+      criteria.push({
+        text: 'Full-stack capabilities',
+        status: 'no',
+        icon: 'no-match'
+      });
+    }
+    maxScore += 1;
+
+    const score = Math.round((totalScore / maxScore) * 10);
+    return { criteria, score };
   };
 
-  const matchPercentage = calculateMatchPercentage(profile);
+  const { criteria, score } = calculateCriteriaMatches(profile);
   const experienceText = profile.experience === undefined 
     ? 'N/A' 
     : `${profile.experience} ${profile.experience === 1 ? 'year' : 'years'}`;
+
+  const getStatusIcon = (iconType) => {
+    switch (iconType) {
+      case 'match': return '✓';
+      case 'partial': return '~';
+      case 'no-match': return '×';
+      default: return '•';
+    }
+  };
+
+  const getStatusText = (status) => {
+    switch (status) {
+      case 'yes': return 'Yes';
+      case 'partial': return 'Partial';
+      case 'no': return 'No';
+      default: return 'Unknown';
+    }
+  };
 
   return (
     <div 
@@ -69,7 +162,25 @@ function ProfileCard({ profile, animationDelay }) {
             {profile.handle ? `@${profile.handle}` : '@ N/A'}
           </span>
         </div>
-        <div className="profile-score">{matchPercentage}% Match</div>
+        <div className="criteria-match">
+          <div className="criteria-header">
+            <span className="criteria-title">Criteria Match</span>
+            <span className="criteria-score">Score: {score}</span>
+          </div>
+          <div className="criteria-list">
+            {criteria.map((criterion, index) => (
+              <div key={index} className="criteria-item">
+                <div className={`criteria-icon ${criterion.icon}`}>
+                  {getStatusIcon(criterion.icon)}
+                </div>
+                <span className="criteria-text">{criterion.text}</span>
+                <span className={`criteria-status ${criterion.status}`}>
+                  {getStatusText(criterion.status)}
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
       </div>
       
       <div className="profile-body">
