@@ -1,16 +1,16 @@
 .tag-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px;
-  margin-top: 8px;
+  gap: 4px;
+  margin-top: 6px;
 }
 
 .tag {
   background: rgba(255, 255, 255, 0.08);
   color: #e2e8f0;
-  padding: 4px 10px;
-  border-radius: 12px;
-  font-size: 0.75rem;
+  padding: 3px 8px;
+  border-radius: 10px;
+  font-size: 0.7rem;
   font-weight: 500;
   transition: all 0.3s ease;
   border: 1px solid rgba(255, 255, 255, 0.1);
@@ -18,7 +18,7 @@
 
 .tag:hover {
   transform: translateY(-1px);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
 }
 
 .tag.skill {
@@ -47,6 +47,6 @@
 
 .empty-text {
   color: #64748b;
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   font-style: italic;
 }
