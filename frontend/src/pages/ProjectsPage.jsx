@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
+import NavigationHeader from '../components/NavigationHeader';
 import BackgroundAnimation from '../components/BackgroundAnimation';
 import SearchContainer from '../components/SearchContainer';
 import ProjectCard from '../components/ProjectCard';
@@ -58,14 +59,10 @@ function ProjectsPage() {
 
   return (
     <div className="projects-page">
+      <NavigationHeader />
       <BackgroundAnimation />
       
-      <a href="/" className="back-to-home">
-        <span>←</span>
-        Back to Home
-      </a>
-      
-      <div className="projects-container">
+      <div className="projects-container" style={{ paddingTop: '80px' }}>
         <div className="projects-header">
           <h1 className="projects-title">Discover Projects</h1>
           <p className="projects-subtitle">

@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
+import NavigationHeader from '../components/NavigationHeader';
 import BackgroundAnimation from '../components/BackgroundAnimation';
 import SearchContainer from '../components/SearchContainer';
 import StartupCard from '../components/StartupCard';
@@ -73,14 +74,10 @@ function StartupsPage() {
 
   return (
     <div className="startups-page">
+      <NavigationHeader />
       <BackgroundAnimation />
       
-      <a href="/" className="back-to-home">
-        <span>←</span>
-        Back to Home
-      </a>
-      
-      <div className="startups-container">
+      <div className="startups-container" style={{ paddingTop: '80px' }}>
         <div className="startups-header">
           <h1 className="startups-title">Discover Startups</h1>
           <p className="startups-subtitle">

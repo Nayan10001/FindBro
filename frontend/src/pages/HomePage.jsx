@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Header from '../components/Header';
+import NavigationHeader from '../components/NavigationHeader';
 import SearchContainer from '../components/SearchContainer';
 import ResultsContainer from '../components/ResultsContainer';
 import BackgroundAnimation from '../components/BackgroundAnimation';
@@ -84,8 +85,9 @@ function HomePage() {
 
   return (
     <div className="app">
+      <NavigationHeader />
       <BackgroundAnimation />
-      <div className="container">
+      <div className="container" style={{ paddingTop: '80px' }}>
         <Header />
         <SearchContainer onSearch={handleSearch} />
         <SearchTypeIndicator 

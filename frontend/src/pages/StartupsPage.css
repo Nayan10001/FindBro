@@ -1,6 +1,5 @@
 .startups-page {
   min-height: 100vh;
-  padding: 40px 20px;
   position: relative;
 }
 
@@ -8,6 +7,7 @@
   max-width: 1200px;
   width: 100%;
   margin: 0 auto;
+  padding: 40px 20px;
   position: relative;
   z-index: 1;
 }
@@ -96,33 +96,8 @@
   animation: spin 1s linear infinite;
 }
 
-.back-to-home {
-  position: fixed;
-  top: 30px;
-  left: 30px;
-  background: rgba(255, 255, 255, 0.1);
-  color: #ffffff;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  padding: 12px 20px;
-  border-radius: 12px;
-  text-decoration: none;
-  font-weight: 500;
-  transition: all 0.3s ease;
-  backdrop-filter: blur(10px);
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  z-index: 100;
-}
-
-.back-to-home:hover {
-  background: rgba(255, 255, 255, 0.15);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-}
-
 @media (max-width: 768px) {
-  .startups-page {
+  .startups-container {
     padding: 20px 16px;
   }
   
@@ -137,13 +112,6 @@
   .startups-grid {
     grid-template-columns: 1fr;
     gap: 20px;
-  }
-  
-  .back-to-home {
-    top: 20px;
-    left: 20px;
-    padding: 10px 16px;
-    font-size: 0.9rem;
   }
 }
 
