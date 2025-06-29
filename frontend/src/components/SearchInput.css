@@ -113,29 +113,28 @@
   30% { transform: translateY(-10px); opacity: 1; }
 }
 
-/* DeepSearch Beta Tag */
+/* DeepSearch Beta Tag - Now positioned below the search box */
 .deepsearch-tag {
-  position: absolute;
-  top: -12px;
-  right: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  margin: 16px auto 0;
   background: linear-gradient(135deg, #8b5cf6, #a855f7);
   color: #ffffff;
-  padding: 4px 12px;
-  border-radius: 12px;
-  font-size: 0.75rem;
+  padding: 6px 16px;
+  border-radius: 16px;
+  font-size: 0.8rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.5px;
   box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);
-  z-index: 10;
-  display: flex;
-  align-items: center;
-  gap: 4px;
+  width: fit-content;
   animation: pulse-glow 2s ease-in-out infinite;
 }
 
 .deepsearch-tag-icon {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
 }
 
 @keyframes pulse-glow {
@@ -162,18 +161,8 @@
   }
 
   .deepsearch-tag {
-    top: -10px;
-    right: 60px;
-    padding: 3px 8px;
-    font-size: 0.65rem;
-  }
-}
-
-@media (max-width: 480px) {
-  .deepsearch-tag {
-    position: static;
-    margin-bottom: 8px;
-    align-self: flex-end;
-    margin-right: 12px;
+    padding: 5px 12px;
+    font-size: 0.7rem;
+    margin: 12px auto 0;
   }
 }

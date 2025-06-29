@@ -3,10 +3,6 @@ import './SearchInput.css';
 function SearchInput({ value, onChange, onKeyPress, isSearching, onSearch }) {
   return (
     <div className="search-input-wrapper">
-      <div className="deepsearch-tag">
-        <i className="fas fa-brain deepsearch-tag-icon"></i>
-        DeepSearch (Beta)
-      </div>
       <div className="search-input-container">
         <textarea
           id="search-input"
@@ -26,6 +22,12 @@ function SearchInput({ value, onChange, onKeyPress, isSearching, onSearch }) {
           <i className="fas fa-arrow-right"></i>
         </button>
       </div>
+      
+      <div className="deepsearch-tag">
+        <i className="fas fa-brain deepsearch-tag-icon"></i>
+        DeepSearch (Beta)
+      </div>
+      
       {isSearching && (
         <div className="typing-indicator">
           <span>Searching</span>
