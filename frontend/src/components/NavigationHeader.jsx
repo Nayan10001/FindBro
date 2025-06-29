@@ -6,10 +6,10 @@ function NavigationHeader() {
   const location = useLocation();
 
   const navItems = [
-    { path: '/', label: 'Search', icon: '🔍' },
-    { path: '/connect', label: 'Connect', icon: '🤝' },
-    { path: '/projects', label: 'Projects', icon: '🚀' },
-    { path: '/startups', label: 'Startups', icon: '🏢' }
+    { path: '/', label: 'Search', icon: <i className="fas fa-search"></i> },
+    { path: '/connect', label: 'Connect', icon: <i className="fas fa-handshake"></i> },
+    { path: '/projects', label: 'Projects', icon: <i className="fas fa-rocket"></i> },
+    { path: '/startups', label: 'Startups', icon: <i className="fas fa-building"></i> }
   ];
 
   return (

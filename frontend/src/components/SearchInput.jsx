@@ -19,9 +19,7 @@ function SearchInput({ value, onChange, onKeyPress, isSearching, onSearch }) {
           disabled={isSearching}
           title="Search developers"
         >
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-            <path d="M5 12h14M12 5l7 7-7 7"/>
-          </svg>
+          <i className="fas fa-arrow-right"></i>
         </button>
       </div>
       {isSearching && (

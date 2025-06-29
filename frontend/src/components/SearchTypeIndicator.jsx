@@ -6,13 +6,13 @@ function SearchTypeIndicator({ detectedType, onTypeChange, isVisible }) {
   const getTypeInfo = (type) => {
     switch (type) {
       case 'developers':
-        return { icon: '👨‍💻', label: 'Searching for Developers' };
+        return { icon: <i className="fas fa-code"></i>, label: 'Searching for Developers' };
       case 'projects':
-        return { icon: '🚀', label: 'Searching for Projects' };
+        return { icon: <i className="fas fa-rocket"></i>, label: 'Searching for Projects' };
       case 'startups':
-        return { icon: '🏢', label: 'Searching for Startups' };
+        return { icon: <i className="fas fa-building"></i>, label: 'Searching for Startups' };
       default:
-        return { icon: '🔍', label: 'Searching' };
+        return { icon: <i className="fas fa-search"></i>, label: 'Searching' };
     }
   };
 
@@ -29,19 +29,19 @@ function SearchTypeIndicator({ detectedType, onTypeChange, isVisible }) {
           className={`search-type-button ${detectedType === 'developers' ? 'active' : ''}`}
           onClick={() => onTypeChange('developers')}
         >
-          👨‍💻 Developers
+          <i className="fas fa-code"></i> Developers
         </button>
         <button 
           className={`search-type-button ${detectedType === 'projects' ? 'active' : ''}`}
           onClick={() => onTypeChange('projects')}
         >
-          🚀 Projects
+          <i className="fas fa-rocket"></i> Projects
         </button>
         <button 
           className={`search-type-button ${detectedType === 'startups' ? 'active' : ''}`}
           onClick={() => onTypeChange('startups')}
         >
-          🏢 Startups
+          <i className="fas fa-building"></i> Startups
         </button>
       </div>
     </div>

@@ -11,18 +11,15 @@ function StartupCard({ startup, animationDelay }) {
 
   const getStageIcon = (stage) => {
     const icons = {
-      'seed': '🌱',
-      'series_a': '🚀',
-      'series_b': '📈',
-      'mvp': '🔧',
-      'idea': '💡',
-      'unknown': '❓'
+      'seed': <i className="fas fa-seedling"></i>,
+      'series_a': <i className="fas fa-rocket"></i>,
+      'series_b': <i className="fas fa-chart-line"></i>,
+      'mvp': <i className="fas fa-wrench"></i>,
+      'idea': <i className="far fa-lightbulb"></i>,
+      'unknown': <i className="fas fa-question"></i>
     };
-    return icons[stage] || '🏢';
+    return icons[stage] || <i className="fas fa-building"></i>;
   };
-
-  // Debug log to see what data we're receiving
-  console.log('StartupCard received:', startup);
 
   return (
     <div 
@@ -34,7 +31,7 @@ function StartupCard({ startup, animationDelay }) {
           <h3 className="startup-name">{startup.name || 'Unnamed Startup'}</h3>
           {startup.city && (
             <div className="startup-location">
-              <span>📍</span>
+              <i className="fas fa-map-marker-alt"></i>
               <span>{startup.city}</span>
             </div>
           )}
@@ -54,7 +51,7 @@ function StartupCard({ startup, animationDelay }) {
 
       <div className="startup-meta">
         <div className="startup-meta-item">
-          <span className="startup-meta-icon">🏗️</span>
+          <span className="startup-meta-icon"><i className="fas fa-hammer"></i></span>
           <div className={`startup-stage ${startup.stage || 'unknown'}`}>
             {getStageIcon(startup.stage)}
             {formatStage(startup.stage || 'unknown')}
@@ -89,7 +86,7 @@ function StartupCard({ startup, animationDelay }) {
           rel="noopener noreferrer"
           className="startup-link"
         >
-          <span>🌐</span>
+          <i className="fas fa-external-link-alt"></i>
           Visit Website
         </a>
       )}

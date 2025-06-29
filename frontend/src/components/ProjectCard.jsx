@@ -10,14 +10,14 @@ function ProjectCard({ project, animationDelay }) {
 
   const getStatusIcon = (status) => {
     const icons = {
-      'seeking_contributors': '👥',
-      'active_development': '🚀',
-      'mvp_complete': '✅',
-      'beta_testing': '🧪',
-      'prototype': '🔬',
-      'seeking_funding': '💰'
+      'seeking_contributors': <i className="fas fa-users"></i>,
+      'active_development': <i className="fas fa-rocket"></i>,
+      'mvp_complete': <i className="fas fa-check-circle"></i>,
+      'beta_testing': <i className="fas fa-flask"></i>,
+      'prototype': <i className="fas fa-microscope"></i>,
+      'seeking_funding': <i className="fas fa-dollar-sign"></i>
     };
-    return icons[status] || '📋';
+    return icons[status] || <i className="fas fa-clipboard-list"></i>;
   };
 
   return (
@@ -47,7 +47,7 @@ function ProjectCard({ project, animationDelay }) {
 
       <div className="project-meta">
         <div className="project-meta-item">
-          <span className="project-meta-icon">📊</span>
+          <span className="project-meta-icon"><i className="fas fa-chart-bar"></i></span>
           <div className={`project-status ${project.status}`}>
             {getStatusIcon(project.status)}
             {formatStatus(project.status || 'unknown')}
@@ -55,27 +55,27 @@ function ProjectCard({ project, animationDelay }) {
         </div>
         
         <div className="project-meta-item">
-          <span className="project-meta-icon">📁</span>
+          <span className="project-meta-icon"><i className="fas fa-folder"></i></span>
           <span>{project.project_type || 'N/A'}</span>
         </div>
         
         <div className="project-meta-item">
-          <span className="project-meta-icon">🏷️</span>
+          <span className="project-meta-icon"><i className="fas fa-tag"></i></span>
           <span>{project.category || 'Other'}</span>
         </div>
         
         <div className="project-meta-item">
-          <span className="project-meta-icon">⏰</span>
+          <span className="project-meta-icon"><i className="far fa-clock"></i></span>
           <span>{project.timeline || 'N/A'}</span>
         </div>
         
         <div className="project-meta-item">
-          <span className="project-meta-icon">💼</span>
+          <span className="project-meta-icon"><i className="fas fa-briefcase"></i></span>
           <span>{project.commitment || 'N/A'}</span>
         </div>
         
         <div className="project-meta-item">
-          <span className="project-meta-icon">📈</span>
+          <span className="project-meta-icon"><i className="fas fa-chart-line"></i></span>
           <span>{project.experience_level || 'Any'} Level</span>
         </div>
       </div>
@@ -118,7 +118,7 @@ function ProjectCard({ project, animationDelay }) {
               rel="noopener noreferrer"
               className="project-link"
             >
-              <span>📂</span>
+              <i className="fab fa-github"></i>
               GitHub
             </a>
           )}
@@ -129,7 +129,7 @@ function ProjectCard({ project, animationDelay }) {
               rel="noopener noreferrer"
               className="project-link"
             >
-              <span>🌐</span>
+              <i className="fas fa-external-link-alt"></i>
               Live Demo
             </a>
           )}
@@ -138,12 +138,12 @@ function ProjectCard({ project, animationDelay }) {
 
       <div className="project-team-info">
         <div className="project-team-stat">
-          <span>👥</span>
+          <i className="fas fa-users"></i>
           <span>{project.current_contributors || 0}/{project.team_size || 0} Contributors</span>
         </div>
         {project.created_at && (
           <div className="project-team-stat">
-            <span>📅</span>
+            <i className="far fa-calendar"></i>
             <span>Created {new Date(project.created_at).toLocaleDateString()}</span>
           </div>
         )}

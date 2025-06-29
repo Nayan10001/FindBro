@@ -10,73 +10,85 @@ function ConnectionHomePage() {
   const categories = [
     {
       id: 'cofounders',
-      title: '👥 Find Your Next Co-Founder',
+      title: 'Find Your Next Co-Founder',
+      icon: <i className="fas fa-users"></i>,
       description: 'Connect with potential co-founders who share your vision and complement your skills',
       searchQuery: 'co-founder material with startup experience and shared vision'
     },
     {
       id: 'alumni',
-      title: '🎓 Find Alumni from Your College',
+      title: 'Find Alumni from Your College',
+      icon: <i className="fas fa-graduation-cap"></i>,
       description: 'Reconnect with fellow alumni who are building amazing things',
       searchQuery: 'alumni from my college working on innovative projects'
     },
     {
       id: 'collaborators',
-      title: '🧠 Find Collaborators, Not Followers',
+      title: 'Find Collaborators, Not Followers',
+      icon: <i className="fas fa-brain"></i>,
       description: 'Find people who challenge your ideas and push you to grow',
       searchQuery: 'experienced developers who love to collaborate and innovate'
     },
     {
       id: 'idea-buddy',
-      title: '💡 Find Your Next Big Idea Buddy',
+      title: 'Find Your Next Big Idea Buddy',
+      icon: <i className="far fa-lightbulb"></i>,
       description: 'Connect with creative minds who love brainstorming and turning ideas into reality',
       searchQuery: 'creative developers interested in brainstorming and building new ideas'
     },
     {
       id: 'mentor',
-      title: '🧑‍🏫 Find a Mentor Who Actually Cares',
+      title: 'Find a Mentor Who Actually Cares',
+      icon: <i className="fas fa-chalkboard-teacher"></i>,
       description: 'Find experienced professionals willing to guide your journey',
       searchQuery: 'senior developers interested in mentoring and knowledge sharing'
     },
     {
       id: 'local-builders',
-      title: '👨‍💻 Find Builders from Your City',
+      title: 'Find Builders from Your City',
+      icon: <i className="fas fa-map-marker-alt"></i>,
       description: 'Connect with local developers and entrepreneurs in your area',
       searchQuery: 'developers and builders in my city for local collaboration'
     },
     {
       id: 'like-minded',
-      title: '💬 Find People Who Think and Code Like You',
+      title: 'Find People Who Think and Code Like You',
+      icon: <i className="fas fa-comments"></i>,
       description: 'Discover developers with similar coding philosophies and approaches',
       searchQuery: 'developers with similar coding style and technical philosophy'
     },
     {
       id: 'dream-team',
-      title: '🧩 Find Your Dream Dev Team',
+      title: 'Find Your Dream Dev Team',
+      icon: <i className="fas fa-puzzle-piece"></i>,
       description: 'Assemble a team of skilled developers for your next big project',
       searchQuery: 'skilled developers looking to join exciting team projects'
     },
     {
       id: 'product-geeks',
-      title: '💼 Find Product Geeks for Your Vision',
+      title: 'Find Product Geeks for Your Vision',
+      icon: <i className="fas fa-briefcase"></i>,
       description: 'Connect with product-minded people who understand user experience',
       searchQuery: 'product-minded developers with UX and user-focused experience'
     },
     {
       id: 'hackathon-team',
-      title: '⚡ Find Teammates for Hackathons or Side Projects',
+      title: 'Find Teammates for Hackathons or Side Projects',
+      icon: <i className="fas fa-bolt"></i>,
       description: 'Find energetic developers ready for hackathons and weekend projects',
       searchQuery: 'developers interested in hackathons and side projects'
     },
     {
       id: 'problem-solvers',
-      title: '🛠 Find Problem Solvers, Not Just Coders',
+      title: 'Find Problem Solvers, Not Just Coders',
+      icon: <i className="fas fa-tools"></i>,
       description: 'Connect with developers who think beyond code and solve real problems',
       searchQuery: 'problem-solving developers who think beyond just coding'
     },
     {
       id: 'open-source',
-      title: '🌍 Find Open Source Contributors Who Align With You',
+      title: 'Find Open Source Contributors Who Align With You',
+      icon: <i className="fas fa-globe"></i>,
       description: 'Discover contributors who share your open source values and interests',
       searchQuery: 'open source contributors with shared values and interests'
     }
@@ -120,7 +132,9 @@ function ConnectionHomePage() {
         {/* Categories Section */}
         <section className="categories-section">
           <div className="section-header">
-            <h2 className="section-title">💬 What You Can Do on FindBro</h2>
+            <h2 className="section-title">
+              <i className="fas fa-comments"></i> What You Can Do on FindBro
+            </h2>
             <p className="section-subtitle">Choose your journey and find the right people for it</p>
           </div>
 
@@ -131,9 +145,13 @@ function ConnectionHomePage() {
                 className={`category-card ${selectedCategory === category.id ? 'selected' : ''}`}
                 onClick={() => handleCategoryClick(category)}
               >
-                <h3 className="category-title">{category.title}</h3>
+                <h3 className="category-title">
+                  {category.icon} {category.title}
+                </h3>
                 <p className="category-description">{category.description}</p>
-                <div className="category-arrow">→</div>
+                <div className="category-arrow">
+                  <i className="fas fa-arrow-right"></i>
+                </div>
               </div>
             ))}
           </div>
@@ -142,12 +160,14 @@ function ConnectionHomePage() {
         {/* How It Works Section */}
         <section className="how-it-works-section">
           <div className="section-header">
-            <h2 className="section-title">⚙ How It Works</h2>
+            <h2 className="section-title">
+              <i className="fas fa-cogs"></i> How It Works
+            </h2>
           </div>
 
           <div className="steps-grid">
             <div className="step-card">
-              <div className="step-icon">🎯</div>
+              <div className="step-icon"><i className="fas fa-bullseye"></i></div>
               <h3 className="step-title">Intent-Aware Profiles</h3>
               <p className="step-description">
                 Users express their goals, skills, institutions, values, and collaboration styles—not just resume data.
@@ -155,7 +175,7 @@ function ConnectionHomePage() {
             </div>
 
             <div className="step-card">
-              <div className="step-icon">🧠</div>
+              <div className="step-icon"><i className="fas fa-brain"></i></div>
               <h3 className="step-title">Smart Matching Engine</h3>
               <p className="step-description">
                 Our hybrid search system uses AI to understand not just what you're looking for, but who you're aligned with.
@@ -163,7 +183,7 @@ function ConnectionHomePage() {
             </div>
 
             <div className="step-card">
-              <div className="step-icon">🔍</div>
+              <div className="step-icon"><i className="fas fa-search"></i></div>
               <h3 className="step-title">Search by What Matters</h3>
               <p className="step-description">
                 From "co-founder material" to "mentorship style", you get results based on purpose and compatibility.
@@ -171,7 +191,7 @@ function ConnectionHomePage() {
             </div>
 
             <div className="step-card">
-              <div className="step-icon">🤖</div>
+              <div className="step-icon"><i className="fas fa-robot"></i></div>
               <h3 className="step-title">AgentBro (Coming Soon)</h3>
               <p className="step-description">
                 A personalized AI agent that finds matches, filters noise, and reaches out for you—like having your own talent scout.
@@ -183,24 +203,26 @@ function ConnectionHomePage() {
         {/* Why Different Section */}
         <section className="why-different-section">
           <div className="section-header">
-            <h2 className="section-title">✅ Why FindBro is Different</h2>
+            <h2 className="section-title">
+              <i className="fas fa-check-circle"></i> Why FindBro is Different
+            </h2>
           </div>
 
           <div className="differences-grid">
             <div className="difference-item">
-              <div className="difference-icon">🎯</div>
+              <div className="difference-icon"><i className="fas fa-bullseye"></i></div>
               <span>Built for real collaboration, not just networking</span>
             </div>
             <div className="difference-item">
-              <div className="difference-icon">🧑‍🤝‍🧑</div>
+              <div className="difference-icon"><i className="fas fa-handshake"></i></div>
               <span>Focused on intent, alignment, and shared vision</span>
             </div>
             <div className="difference-item">
-              <div className="difference-icon">🔍</div>
+              <div className="difference-icon"><i className="fas fa-search"></i></div>
               <span>Intelligent discovery based on skills, values, goals, and availability</span>
             </div>
             <div className="difference-item">
-              <div className="difference-icon">💬</div>
+              <div className="difference-icon"><i className="fas fa-comments"></i></div>
               <span>Meaningful conversations, not cold outreach</span>
             </div>
           </div>
@@ -209,36 +231,50 @@ function ConnectionHomePage() {
         {/* Designed For Section */}
         <section className="designed-for-section">
           <div className="section-header">
-            <h2 className="section-title">✨ Designed For</h2>
+            <h2 className="section-title">
+              <i className="fas fa-star"></i> Designed For
+            </h2>
           </div>
 
           <div className="audience-grid">
-            <div className="audience-item">🌱 Aspiring founders</div>
-            <div className="audience-item">🎓 Students, alumni, and college builders</div>
-            <div className="audience-item">🤝 Mentors & community contributors</div>
-            <div className="audience-item">💻 Side project explorers</div>
-            <div className="audience-item">🔍 People who just want to find their tribe</div>
+            <div className="audience-item">
+              <i className="fas fa-seedling"></i> Aspiring founders
+            </div>
+            <div className="audience-item">
+              <i className="fas fa-graduation-cap"></i> Students, alumni, and college builders
+            </div>
+            <div className="audience-item">
+              <i className="fas fa-handshake"></i> Mentors & community contributors
+            </div>
+            <div className="audience-item">
+              <i className="fas fa-laptop-code"></i> Side project explorers
+            </div>
+            <div className="audience-item">
+              <i className="fas fa-search"></i> People who just want to find their tribe
+            </div>
           </div>
         </section>
 
         {/* Get Started Section */}
         <section className="get-started-section">
           <div className="section-header">
-            <h2 className="section-title">👣 Get Started</h2>
+            <h2 className="section-title">
+              <i className="fas fa-play"></i> Get Started
+            </h2>
           </div>
 
           <div className="get-started-steps">
             <div className="get-started-step">
               <div className="step-number">1</div>
-              <span>✅ Sign up and create your profile</span>
+              <span><i className="fas fa-check"></i> Sign up and create your profile</span>
             </div>
             <div className="get-started-step">
               <div className="step-number">2</div>
-              <span>🔎 Browse intent-based categories</span>
+              <span><i className="fas fa-search"></i> Browse intent-based categories</span>
             </div>
             <div className="get-started-step">
               <div className="step-number">3</div>
-              <span>💬 Reach out, team up, and build together</span>
+              <span><i className="fas fa-comments"></i> Reach out, team up, and build together</span>
             </div>
           </div>
 

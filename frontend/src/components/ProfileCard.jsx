@@ -1,5 +1,3 @@
-// src/components/ProfileCard.jsx
-
 import TagList from './TagList';
 import './ProfileCard.css';
 
@@ -112,10 +110,10 @@ function ProfileCard({ profile, animationDelay }) {
 
   const getStatusIcon = (iconType) => {
     switch (iconType) {
-      case 'match': return '✓';
-      case 'partial': return '~';
-      case 'no-match': return '×';
-      default: return '•';
+      case 'match': return <i className="fas fa-check"></i>;
+      case 'partial': return <i className="fas fa-minus"></i>;
+      case 'no-match': return <i className="fas fa-times"></i>;
+      default: return <i className="fas fa-circle"></i>;
     }
   };
 
@@ -165,10 +163,10 @@ function ProfileCard({ profile, animationDelay }) {
       <div className="profile-body">
         <div className="profile-meta-row">
           <div className="profile-experience">
-            ⏱️ <span>{experienceText}</span>
+            <i className="far fa-clock"></i> <span>{experienceText}</span>
           </div>
           <div className="profile-timezone">
-            🌍 <span>{timezone}</span>
+            <i className="fas fa-globe"></i> <span>{timezone}</span>
           </div>
         </div>
         
