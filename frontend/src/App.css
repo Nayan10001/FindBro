@@ -11,16 +11,18 @@ body {
   line-height: 1.6;
   min-height: 100vh;
   overflow-x: hidden;
+  overflow-y: hidden; /* Remove vertical scrolling */
 }
 
 .app {
   position: relative;
-  min-height: 100vh;
+  height: 100vh; /* Fixed height instead of min-height */
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start; /* Changed from center to flex-start */
   padding: 40px 20px;
+  overflow: hidden; /* Prevent any overflow */
 }
 
 .container {
@@ -28,6 +30,10 @@ body {
   width: 100%;
   position: relative;
   z-index: 1;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden; /* Prevent container overflow */
 }
 
 /* Animations */
@@ -79,5 +85,10 @@ body {
 @media (max-width: 768px) {
   .app {
     padding: 20px 16px;
+    height: 100vh; /* Maintain fixed height on mobile */
+  }
+  
+  body {
+    overflow-y: hidden; /* Keep scrolling disabled on mobile too */
   }
 }

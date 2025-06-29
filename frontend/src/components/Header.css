@@ -1,17 +1,18 @@
 .header {
   text-align: center;
-  margin-bottom: 60px;
+  margin-bottom: 40px; /* Reduced from 60px */
   position: relative;
+  flex-shrink: 0; /* Prevent header from shrinking */
 }
 
 .logo {
-  font-size: 3.5rem;
+  font-size: 3rem; /* Reduced from 3.5rem */
   font-weight: 800;
   background: linear-gradient(135deg, #3b82f6, #8b5cf6, #06b6d4);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-bottom: 16px;
+  margin-bottom: 12px; /* Reduced from 16px */
   animation: pulse 3s ease-in-out infinite;
 }
 
@@ -21,18 +22,22 @@
 }
 
 .tagline {
-  font-size: 1.1rem;
+  font-size: 1rem; /* Reduced from 1.1rem */
   color: #94a3b8;
-  margin-bottom: 20px;
+  margin-bottom: 16px; /* Reduced from 20px */
   font-weight: 300;
 }
 
 @media (max-width: 768px) {
+  .header {
+    margin-bottom: 30px; /* Reduced from 40px */
+  }
+  
   .logo {
-    font-size: 2.8rem;
+    font-size: 2.5rem; /* Reduced from 2.8rem */
   }
   
   .tagline {
-    font-size: 1rem;
+    font-size: 0.9rem; /* Reduced from 1rem */
   }
 }
