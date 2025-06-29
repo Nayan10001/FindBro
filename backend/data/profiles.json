@@ -1,0 +1,4036 @@
+[
+  {
+    "name": "Tara Rao",
+    "handle": "tara_rao72",
+    "skill_tags": [
+      "TensorFlow",
+      "Python",
+      "Docker",
+      "React",
+      "C++"
+    ],
+    "years_of_experience": 1,
+    "preferred_roles": [
+      "Data Scientist"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Research projects",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Google",
+        "role": "Backend Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Jamia Millia Islamia (JMI Delhi)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Aarav Khan",
+    "handle": "aarav_khan58",
+    "skill_tags": [
+      "Docker",
+      "SQL",
+      "Django",
+      "React"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Backend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Product building",
+      "Mobile apps",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "DevOps Engineer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Jamia Millia Islamia (JMI Delhi)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Saanvi Khan",
+    "handle": "saanvi_khan7",
+    "skill_tags": [
+      "SQL",
+      "Django",
+      "Java",
+      "C++"
+    ],
+    "years_of_experience": 6,
+    "preferred_roles": [
+      "Data Scientist",
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Mobile apps",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "Data Scientist",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Diya Singh",
+    "handle": "diya_singh4",
+    "skill_tags": [
+      "AWS",
+      "C++",
+      "SQL",
+      "React"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Frontend Developer",
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "AI/ML",
+      "Research projects",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Google",
+        "role": "Data Scientist",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Tara Sharma",
+    "handle": "tara_sharma51",
+    "skill_tags": [
+      "Python",
+      "Node.js",
+      "AWS",
+      "Java",
+      "Django"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Product building",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Google",
+        "role": "Frontend Developer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Ishita Rao",
+    "handle": "ishita_rao52",
+    "skill_tags": [
+      "Python",
+      "SQL",
+      "AWS",
+      "Django"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Data Scientist",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Delhi Technological University (DTU)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Kunal Chopra",
+    "handle": "kunal_chopra38",
+    "skill_tags": [
+      "SQL",
+      "Node.js",
+      "Java",
+      "C++",
+      "React"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Microsoft",
+        "role": "Full Stack Developer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Delhi Technological University (DTU)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Diya Rao",
+    "handle": "diya_rao77",
+    "skill_tags": [
+      "C++",
+      "Node.js",
+      "Python",
+      "React",
+      "Django"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Frontend Developer",
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Research projects",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "Full Stack Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Aarav Patel",
+    "handle": "aarav_patel28",
+    "skill_tags": [
+      "TensorFlow",
+      "Docker",
+      "Java",
+      "AWS"
+    ],
+    "years_of_experience": 6,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "Product building",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Google",
+        "role": "Backend Developer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Tara Mehta",
+    "handle": "tara_mehta5",
+    "skill_tags": [
+      "Docker",
+      "Node.js",
+      "Python"
+    ],
+    "years_of_experience": 10,
+    "preferred_roles": [
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "AI/ML",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Frontend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Meera Chopra",
+    "handle": "meera_chopra93",
+    "skill_tags": [
+      "React",
+      "Java",
+      "Docker",
+      "C++"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Research projects",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Microsoft",
+        "role": "Data Scientist",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Ishita Verma",
+    "handle": "ishita_verma17",
+    "skill_tags": [
+      "Python",
+      "SQL",
+      "Node.js",
+      "Docker",
+      "TensorFlow"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Product building",
+      "AI/ML",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Google",
+        "role": "Frontend Developer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Science (IISc Bangalore)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Tara Sharma",
+    "handle": "tara_sharma37",
+    "skill_tags": [
+      "Python",
+      "Django",
+      "TensorFlow"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "Frontend Developer",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Google",
+        "role": "Backend Developer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Tara Verma",
+    "handle": "tara_verma38",
+    "skill_tags": [
+      "Docker",
+      "Django",
+      "Node.js"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Frontend Developer",
+      "Backend Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Product building",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "Full Stack Developer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Aarav Rao",
+    "handle": "aarav_rao74",
+    "skill_tags": [
+      "C++",
+      "React",
+      "Java",
+      "Docker",
+      "Django"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Amazon",
+        "role": "Backend Developer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Delhi Technological University (DTU)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Saanvi Mehta",
+    "handle": "saanvi_mehta61",
+    "skill_tags": [
+      "C++",
+      "Django",
+      "Python"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Frontend Developer",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "AI/ML",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Amazon",
+        "role": "Frontend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Vivaan Chopra",
+    "handle": "vivaan_chopra72",
+    "skill_tags": [
+      "React",
+      "SQL",
+      "AWS"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "Full Stack Developer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Bombay)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Meera Rao",
+    "handle": "meera_rao87",
+    "skill_tags": [
+      "AWS",
+      "TensorFlow",
+      "Docker",
+      "C++",
+      "Python"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "AI/ML",
+      "Mobile apps",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "Data Scientist",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Bombay)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Tara Mehta",
+    "handle": "tara_mehta51",
+    "skill_tags": [
+      "C++",
+      "Django",
+      "TensorFlow",
+      "Python"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Frontend Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Open source contribution",
+      "Product building",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "Frontend Developer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Science (IISc Bangalore)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Kunal Chopra",
+    "handle": "kunal_chopra13",
+    "skill_tags": [
+      "Docker",
+      "Java",
+      "Python",
+      "React"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Swiggy",
+        "role": "Frontend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Tara Patel",
+    "handle": "tara_patel36",
+    "skill_tags": [
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Amazon",
+        "role": "Frontend Developer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Meera Rao",
+    "handle": "meera_rao22",
+    "skill_tags": [
+      "Python",
+      "TensorFlow",
+      "React",
+      "C++"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Open source contribution",
+      "AI/ML",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Backend Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Tara Mehta",
+    "handle": "tara_mehta29",
+    "skill_tags": [
+      "Node.js",
+      "React",
+      "Docker"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Backend Developer",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Open source contribution",
+      "Product building",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Infosys",
+        "role": "Backend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Meera Mehta",
+    "handle": "meera_mehta41",
+    "skill_tags": [
+      "Node.js",
+      "React",
+      "AWS",
+      "Python"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "Research projects",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "Data Scientist",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Diya Sharma",
+    "handle": "diya_sharma77",
+    "skill_tags": [
+      "Python",
+      "Docker",
+      "TensorFlow",
+      "React",
+      "Node.js"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "Frontend Developer",
+      "Data Scientist"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Open source contribution",
+      "Mobile apps",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "Data Scientist",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Aarav Chopra",
+    "handle": "aarav_chopra50",
+    "skill_tags": [
+      "Node.js",
+      "Django",
+      "Java",
+      "Python"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Open source contribution",
+      "Research projects",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Amazon",
+        "role": "Frontend Developer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Jamia Millia Islamia (JMI Delhi)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Rohan Joshi",
+    "handle": "rohan_joshi89",
+    "skill_tags": [
+      "Node.js",
+      "SQL",
+      "Docker",
+      "AWS",
+      "Python"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "Research projects",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "Data Scientist",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Jamia Millia Islamia (JMI Delhi)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Aditya Patel",
+    "handle": "aditya_patel50",
+    "skill_tags": [
+      "AWS",
+      "Node.js",
+      "Django",
+      "Java",
+      "Python"
+    ],
+    "years_of_experience": 10,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Data Scientist"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Mobile apps",
+      "AI/ML",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Infosys",
+        "role": "Data Scientist",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Bombay)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Saanvi Mehta",
+    "handle": "saanvi_mehta17",
+    "skill_tags": [
+      "Django",
+      "TensorFlow",
+      "AWS",
+      "Docker"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Mobile apps",
+      "Product building",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Microsoft",
+        "role": "DevOps Engineer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Aditya Chopra",
+    "handle": "aditya_chopra16",
+    "skill_tags": [
+      "SQL",
+      "Django",
+      "TensorFlow",
+      "C++"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "Data Scientist",
+      "Backend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "Open source contribution",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "Frontend Developer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Saanvi Singh",
+    "handle": "saanvi_singh91",
+    "skill_tags": [
+      "TensorFlow",
+      "AWS",
+      "Docker"
+    ],
+    "years_of_experience": 10,
+    "preferred_roles": [
+      "Backend Developer",
+      "Data Scientist"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "Research projects",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "Full Stack Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Science (IISc Bangalore)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Rohan Mehta",
+    "handle": "rohan_mehta39",
+    "skill_tags": [
+      "Node.js",
+      "SQL",
+      "Django",
+      "AWS",
+      "Java"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Backend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Product building",
+      "AI/ML",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Data Scientist",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Science (IISc Bangalore)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Kunal Singh",
+    "handle": "kunal_singh88",
+    "skill_tags": [
+      "SQL",
+      "C++",
+      "Django",
+      "React",
+      "Docker"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "Data Scientist",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "Research projects",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "Frontend Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "COEP Technological University (Pune)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Tara Singh",
+    "handle": "tara_singh45",
+    "skill_tags": [
+      "TensorFlow",
+      "SQL",
+      "React"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Infosys",
+        "role": "Data Scientist",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Aditya Singh",
+    "handle": "aditya_singh98",
+    "skill_tags": [
+      "TensorFlow",
+      "Docker",
+      "AWS",
+      "Node.js",
+      "Java"
+    ],
+    "years_of_experience": 10,
+    "preferred_roles": [
+      "Backend Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Open source contribution",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Microsoft",
+        "role": "Frontend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Meera Rao",
+    "handle": "meera_rao39",
+    "skill_tags": [
+      "Node.js",
+      "Python",
+      "AWS",
+      "Docker",
+      "Django"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Backend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "AI/ML",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Infosys",
+        "role": "DevOps Engineer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Vivaan Sharma",
+    "handle": "vivaan_sharma67",
+    "skill_tags": [
+      "Python",
+      "Docker",
+      "React",
+      "Java"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "Backend Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Open source contribution",
+      "Product building",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "DevOps Engineer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Science (IISc Bangalore)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Meera Rao",
+    "handle": "meera_rao32",
+    "skill_tags": [
+      "React",
+      "Docker",
+      "SQL",
+      "Java",
+      "AWS"
+    ],
+    "years_of_experience": 1,
+    "preferred_roles": [
+      "Backend Developer",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Mobile apps",
+      "Product building",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Amazon",
+        "role": "Backend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Aarav Patel",
+    "handle": "aarav_patel17",
+    "skill_tags": [
+      "AWS",
+      "Python",
+      "C++",
+      "Django",
+      "SQL"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Backend Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Open source contribution",
+      "Mobile apps",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Google",
+        "role": "Data Scientist",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Vivaan Chopra",
+    "handle": "vivaan_chopra81",
+    "skill_tags": [
+      "Java",
+      "TensorFlow",
+      "AWS"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "Frontend Developer",
+      "Backend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Backend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Tara Sharma",
+    "handle": "tara_sharma29",
+    "skill_tags": [
+      "Java",
+      "SQL",
+      "React",
+      "Python"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Backend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Backend Developer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Science (IISc Bangalore)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Ishita Khan",
+    "handle": "ishita_khan37",
+    "skill_tags": [
+      "Node.js",
+      "Django",
+      "SQL",
+      "TensorFlow",
+      "Docker"
+    ],
+    "years_of_experience": 6,
+    "preferred_roles": [
+      "Frontend Developer",
+      "Data Scientist"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "Full Stack Developer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Saanvi Verma",
+    "handle": "saanvi_verma46",
+    "skill_tags": [
+      "Python",
+      "SQL",
+      "React",
+      "Docker"
+    ],
+    "years_of_experience": 1,
+    "preferred_roles": [
+      "Frontend Developer",
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "AI/ML",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "DevOps Engineer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Jamia Millia Islamia (JMI Delhi)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Meera Mehta",
+    "handle": "meera_mehta53",
+    "skill_tags": [
+      "Docker",
+      "React",
+      "Python"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Data Scientist"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "AI/ML",
+      "Mobile apps",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Backend Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Rohan Joshi",
+    "handle": "rohan_joshi99",
+    "skill_tags": [
+      "Django",
+      "TensorFlow",
+      "SQL"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Data Scientist",
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "AI/ML",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "Data Scientist",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "COEP Technological University (Pune)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Vivaan Nair",
+    "handle": "vivaan_nair65",
+    "skill_tags": [
+      "SQL",
+      "Python",
+      "Node.js",
+      "Django"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Full Stack Developer",
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Product building",
+      "Research projects",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "DevOps Engineer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Aarav Mehta",
+    "handle": "aarav_mehta6",
+    "skill_tags": [
+      "SQL",
+      "TensorFlow",
+      "Docker"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "Frontend Developer",
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Amazon",
+        "role": "Backend Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Saanvi Mehta",
+    "handle": "saanvi_mehta58",
+    "skill_tags": [
+      "TensorFlow",
+      "SQL",
+      "C++",
+      "Django"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Backend Developer",
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Data Scientist",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Delhi Technological University (DTU)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Aditya Patel",
+    "handle": "aditya_patel83",
+    "skill_tags": [
+      "TensorFlow",
+      "React",
+      "Django",
+      "Java"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Open source contribution",
+      "Mobile apps",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "DevOps Engineer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Delhi Technological University (DTU)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Kunal Sharma",
+    "handle": "kunal_sharma38",
+    "skill_tags": [
+      "Node.js",
+      "AWS",
+      "Docker"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "Data Scientist",
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Product building",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "DevOps Engineer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Meera Rao",
+    "handle": "meera_rao46",
+    "skill_tags": [
+      "Python",
+      "C++",
+      "SQL",
+      "AWS",
+      "Django"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Backend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "AI/ML",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Infosys",
+        "role": "Frontend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Rohan Patel",
+    "handle": "rohan_patel22",
+    "skill_tags": [
+      "Python",
+      "Docker",
+      "React"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "Open source contribution",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Google",
+        "role": "Frontend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "COEP Technological University (Pune)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Tara Sharma",
+    "handle": "tara_sharma59",
+    "skill_tags": [
+      "React",
+      "C++",
+      "Node.js"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Product building",
+      "Research projects",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Backend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Aditya Patel",
+    "handle": "aditya_patel92",
+    "skill_tags": [
+      "Django",
+      "Java",
+      "React"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Data Scientist",
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "AI/ML",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Infosys",
+        "role": "Data Scientist",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "COEP Technological University (Pune)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Meera Mehta",
+    "handle": "meera_mehta19",
+    "skill_tags": [
+      "Node.js",
+      "Docker",
+      "Python",
+      "Django",
+      "Java"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "Full Stack Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Saanvi Nair",
+    "handle": "saanvi_nair51",
+    "skill_tags": [
+      "React",
+      "Node.js",
+      "Java"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Product building",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Adobe",
+        "role": "Frontend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Saanvi Nair",
+    "handle": "saanvi_nair94",
+    "skill_tags": [
+      "C++",
+      "Java",
+      "Django"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "AI/ML",
+      "Product building",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Full Stack Developer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Ishita Nair",
+    "handle": "ishita_nair40",
+    "skill_tags": [
+      "Docker",
+      "TensorFlow",
+      "Django"
+    ],
+    "years_of_experience": 6,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Product building",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Amazon",
+        "role": "Frontend Developer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Kunal Khan",
+    "handle": "kunal_khan47",
+    "skill_tags": [
+      "TensorFlow",
+      "React",
+      "Django",
+      "Java",
+      "Python"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Infosys",
+        "role": "Full Stack Developer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Science (IISc Bangalore)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Rohan Verma",
+    "handle": "rohan_verma94",
+    "skill_tags": [
+      "Java",
+      "Node.js",
+      "Django"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Data Scientist"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Research projects",
+      "Mobile apps",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "Data Scientist",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Delhi Technological University (DTU)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Tara Chopra",
+    "handle": "tara_chopra29",
+    "skill_tags": [
+      "Django",
+      "Java",
+      "AWS",
+      "React",
+      "Docker"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "Backend Developer",
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "AI/ML",
+      "Open source contribution",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Backend Developer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Science (IISc Bangalore)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Aarav Patel",
+    "handle": "aarav_patel14",
+    "skill_tags": [
+      "Node.js",
+      "Docker",
+      "React",
+      "Django",
+      "Java"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "Frontend Developer",
+      "Backend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "Research projects",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "DevOps Engineer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "COEP Technological University (Pune)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Aarav Patel",
+    "handle": "aarav_patel20",
+    "skill_tags": [
+      "Node.js",
+      "TensorFlow",
+      "C++"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Backend Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Open source contribution",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Swiggy",
+        "role": "DevOps Engineer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Tara Singh",
+    "handle": "tara_singh82",
+    "skill_tags": [
+      "Docker",
+      "Java",
+      "React",
+      "SQL"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Frontend Developer",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Research projects",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Data Scientist",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Rohan Chopra",
+    "handle": "rohan_chopra5",
+    "skill_tags": [
+      "React",
+      "Django",
+      "TensorFlow",
+      "AWS"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Data Scientist"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Research projects",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Amazon",
+        "role": "Backend Developer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Rohan Joshi",
+    "handle": "rohan_joshi86",
+    "skill_tags": [
+      "AWS",
+      "Node.js",
+      "Java",
+      "SQL"
+    ],
+    "years_of_experience": 10,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Research projects",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "Frontend Developer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Aditya Nair",
+    "handle": "aditya_nair41",
+    "skill_tags": [
+      "AWS",
+      "C++",
+      "Docker",
+      "Java",
+      "TensorFlow"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Data Scientist",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Mobile apps",
+      "Product building",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "DevOps Engineer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Science (IISc Bangalore)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Kunal Sharma",
+    "handle": "kunal_sharma92",
+    "skill_tags": [
+      "Node.js",
+      "AWS",
+      "Docker"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Data Scientist",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Mobile apps",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Microsoft",
+        "role": "Data Scientist",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Meera Rao",
+    "handle": "meera_rao84",
+    "skill_tags": [
+      "Node.js",
+      "Docker",
+      "C++",
+      "SQL",
+      "React"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Mobile apps",
+      "Research projects",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "Data Scientist",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Saanvi Sharma",
+    "handle": "saanvi_sharma38",
+    "skill_tags": [
+      "SQL",
+      "AWS",
+      "Node.js",
+      "TensorFlow",
+      "React"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Mobile apps",
+      "AI/ML",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "DevOps Engineer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "COEP Technological University (Pune)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Aarav Nair",
+    "handle": "aarav_nair11",
+    "skill_tags": [
+      "SQL",
+      "Python",
+      "Node.js",
+      "TensorFlow",
+      "C++"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Data Scientist",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Product building",
+      "Open source contribution",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Adobe",
+        "role": "Backend Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Meera Verma",
+    "handle": "meera_verma40",
+    "skill_tags": [
+      "Docker",
+      "Node.js",
+      "C++",
+      "TensorFlow",
+      "Django"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Open source contribution",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Adobe",
+        "role": "Data Scientist",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Ishita Nair",
+    "handle": "ishita_nair91",
+    "skill_tags": [
+      "TensorFlow",
+      "Node.js",
+      "Django"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Data Scientist"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Google",
+        "role": "Full Stack Developer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Saanvi Patel",
+    "handle": "saanvi_patel14",
+    "skill_tags": [
+      "Django",
+      "SQL",
+      "Docker",
+      "Java"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Backend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "Backend Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Meera Singh",
+    "handle": "meera_singh22",
+    "skill_tags": [
+      "TensorFlow",
+      "Python",
+      "Django"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Backend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Open source contribution",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "Data Scientist",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "COEP Technological University (Pune)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Tara Sharma",
+    "handle": "tara_sharma90",
+    "skill_tags": [
+      "TensorFlow",
+      "SQL",
+      "React",
+      "Node.js",
+      "Django"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Frontend Developer",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Mobile apps",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "Frontend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Aarav Sharma",
+    "handle": "aarav_sharma66",
+    "skill_tags": [
+      "Node.js",
+      "C++",
+      "Django"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Research projects",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Microsoft",
+        "role": "Data Scientist",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Diya Joshi",
+    "handle": "diya_joshi15",
+    "skill_tags": [
+      "AWS",
+      "Python",
+      "SQL",
+      "React"
+    ],
+    "years_of_experience": 6,
+    "preferred_roles": [
+      "Backend Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Research projects",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Adobe",
+        "role": "DevOps Engineer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Bombay)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Rohan Singh",
+    "handle": "rohan_singh31",
+    "skill_tags": [
+      "AWS",
+      "Java",
+      "Docker"
+    ],
+    "years_of_experience": 1,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Adobe",
+        "role": "Full Stack Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Bombay)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Aarav Sharma",
+    "handle": "aarav_sharma39",
+    "skill_tags": [
+      "Java",
+      "C++",
+      "Docker",
+      "SQL",
+      "Python"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Swiggy",
+        "role": "Backend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Delhi Technological University (DTU)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Saanvi Sharma",
+    "handle": "saanvi_sharma64",
+    "skill_tags": [
+      "React",
+      "Python",
+      "Node.js",
+      "Docker",
+      "TensorFlow"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "AI/ML",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Swiggy",
+        "role": "Frontend Developer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Aarav Khan",
+    "handle": "aarav_khan22",
+    "skill_tags": [
+      "TensorFlow",
+      "C++",
+      "AWS",
+      "SQL",
+      "Java"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Data Scientist",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Product building",
+      "Mobile apps",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Microsoft",
+        "role": "DevOps Engineer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Aarav Nair",
+    "handle": "aarav_nair35",
+    "skill_tags": [
+      "AWS",
+      "Python",
+      "C++"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Data Scientist"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "AI/ML",
+      "Mobile apps",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Infosys",
+        "role": "Backend Developer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Saanvi Patel",
+    "handle": "saanvi_patel70",
+    "skill_tags": [
+      "Node.js",
+      "AWS",
+      "Django",
+      "TensorFlow",
+      "React"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Frontend Developer",
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Product building",
+      "Open source contribution",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Swiggy",
+        "role": "Data Scientist",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Meera Joshi",
+    "handle": "meera_joshi3",
+    "skill_tags": [
+      "SQL",
+      "Django",
+      "Node.js",
+      "TensorFlow",
+      "Java"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "Backend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Open source contribution",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "Frontend Developer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Ishita Khan",
+    "handle": "ishita_khan54",
+    "skill_tags": [
+      "React",
+      "SQL",
+      "Node.js"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "AI/ML",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "DevOps Engineer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Ishita Nair",
+    "handle": "ishita_nair86",
+    "skill_tags": [
+      "TensorFlow",
+      "SQL",
+      "Docker"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Open source contribution",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Adobe",
+        "role": "Backend Developer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Science (IISc Bangalore)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Vivaan Mehta",
+    "handle": "vivaan_mehta94",
+    "skill_tags": [
+      "Node.js",
+      "AWS",
+      "Python",
+      "React"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Backend Developer",
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Open source contribution",
+      "Research projects",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Full Stack Developer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Diya Joshi",
+    "handle": "diya_joshi50",
+    "skill_tags": [
+      "Java",
+      "SQL",
+      "TensorFlow",
+      "React"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Backend Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Open source contribution",
+      "AI/ML",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Infosys",
+        "role": "Backend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "COEP Technological University (Pune)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Kunal Nair",
+    "handle": "kunal_nair40",
+    "skill_tags": [
+      "Node.js",
+      "Java",
+      "AWS",
+      "SQL"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Full Stack Developer",
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Mobile apps",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Adobe",
+        "role": "DevOps Engineer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Aditya Chopra",
+    "handle": "aditya_chopra34",
+    "skill_tags": [
+      "SQL",
+      "AWS",
+      "TensorFlow",
+      "Django"
+    ],
+    "years_of_experience": 1,
+    "preferred_roles": [
+      "Data Scientist"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "AI/ML",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Swiggy",
+        "role": "Data Scientist",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Vivaan Nair",
+    "handle": "vivaan_nair56",
+    "skill_tags": [
+      "Docker",
+      "Django",
+      "C++",
+      "Node.js",
+      "TensorFlow"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Backend Developer",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Product building",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "Data Scientist",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Science (IISc Bangalore)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Aarav Mehta",
+    "handle": "aarav_mehta81",
+    "skill_tags": [
+      "Docker",
+      "Django",
+      "Java"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Backend Developer",
+      "Frontend Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Open source contribution",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Backend Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Diya Rao",
+    "handle": "diya_rao56",
+    "skill_tags": [
+      "TensorFlow",
+      "Node.js",
+      "Java",
+      "Python"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "Backend Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Product building",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Microsoft",
+        "role": "DevOps Engineer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Saanvi Patel",
+    "handle": "saanvi_patel23",
+    "skill_tags": [
+      "Java",
+      "SQL",
+      "AWS"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "Backend Developer",
+      "Data Scientist"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "Data Scientist",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "COEP Technological University (Pune)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Meera Joshi",
+    "handle": "meera_joshi51",
+    "skill_tags": [
+      "AWS",
+      "TensorFlow",
+      "C++",
+      "SQL"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Product building",
+      "AI/ML",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Swiggy",
+        "role": "DevOps Engineer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Diya Chopra",
+    "handle": "diya_chopra63",
+    "skill_tags": [
+      "Python",
+      "C++",
+      "AWS",
+      "Docker"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "AI/ML",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Frontend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Delhi Technological University (DTU)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Tara Verma",
+    "handle": "tara_verma44",
+    "skill_tags": [
+      "Node.js",
+      "AWS",
+      "TensorFlow",
+      "Java",
+      "SQL"
+    ],
+    "years_of_experience": 1,
+    "preferred_roles": [
+      "Data Scientist"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Open source contribution",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Amazon",
+        "role": "DevOps Engineer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Vellore Institute of Technology (VIT Vellore)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Saanvi Patel",
+    "handle": "saanvi_patel31",
+    "skill_tags": [
+      "SQL",
+      "C++",
+      "React"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Open source contribution",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "Data Scientist",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Rohan Patel",
+    "handle": "rohan_patel37",
+    "skill_tags": [
+      "AWS",
+      "React",
+      "C++",
+      "Python",
+      "Java"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Backend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "AI/ML",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Microsoft",
+        "role": "Full Stack Developer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Delhi Technological University (DTU)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Rohan Chopra",
+    "handle": "rohan_chopra73",
+    "skill_tags": [
+      "C++",
+      "Docker",
+      "Django",
+      "AWS"
+    ],
+    "years_of_experience": 10,
+    "preferred_roles": [
+      "Data Scientist"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Research projects",
+      "AI/ML",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "Frontend Developer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Bombay)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Ishita Nair",
+    "handle": "ishita_nair55",
+    "skill_tags": [
+      "C++",
+      "AWS",
+      "Python"
+    ],
+    "years_of_experience": 6,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Product building",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Swiggy",
+        "role": "Backend Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Aditya Chopra",
+    "handle": "aditya_chopra48",
+    "skill_tags": [
+      "SQL",
+      "C++",
+      "TensorFlow"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Frontend Developer",
+      "Backend Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Mobile apps",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Microsoft",
+        "role": "Data Scientist",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "National Institute of Technology (NIT Warangal)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Rohan Mehta",
+    "handle": "rohan_mehta94",
+    "skill_tags": [
+      "C++",
+      "Django",
+      "Python",
+      "AWS",
+      "SQL"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Data Scientist",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Research projects",
+      "AI/ML"
+    ],
+    "work_history": [
+      {
+        "company": "Adobe",
+        "role": "DevOps Engineer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Kunal Verma",
+    "handle": "kunal_verma6",
+    "skill_tags": [
+      "SQL",
+      "Node.js",
+      "Java"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "Full Stack Developer",
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Open source contribution",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Swiggy",
+        "role": "Full Stack Developer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Jamia Millia Islamia (JMI Delhi)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Vivaan Patel",
+    "handle": "vivaan_patel99",
+    "skill_tags": [
+      "Java",
+      "SQL",
+      "TensorFlow"
+    ],
+    "years_of_experience": 1,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "AI/ML",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "DevOps Engineer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "COEP Technological University (Pune)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Kunal Patel",
+    "handle": "kunal_patel83",
+    "skill_tags": [
+      "React",
+      "AWS",
+      "SQL",
+      "Django",
+      "Docker"
+    ],
+    "years_of_experience": 1,
+    "preferred_roles": [
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "AI/ML",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "DevOps Engineer",
+        "duration_years": 4
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Vivaan Sharma",
+    "handle": "vivaan_sharma80",
+    "skill_tags": [
+      "Python",
+      "AWS",
+      "TensorFlow"
+    ],
+    "years_of_experience": 9,
+    "preferred_roles": [
+      "Data Scientist",
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Open source contribution",
+      "Product building"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "DevOps Engineer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Delhi Technological University (DTU)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Tara Joshi",
+    "handle": "tara_joshi80",
+    "skill_tags": [
+      "Node.js",
+      "Django",
+      "React"
+    ],
+    "years_of_experience": 6,
+    "preferred_roles": [
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Research projects",
+      "Product building",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Amazon",
+        "role": "Full Stack Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Aarav Chopra",
+    "handle": "aarav_chopra23",
+    "skill_tags": [
+      "Node.js",
+      "React",
+      "TensorFlow",
+      "Java",
+      "Python"
+    ],
+    "years_of_experience": 4,
+    "preferred_roles": [
+      "Data Scientist",
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Microsoft",
+        "role": "Data Scientist",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Science (IISc Bangalore)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Saanvi Rao",
+    "handle": "saanvi_rao68",
+    "skill_tags": [
+      "C++",
+      "Node.js",
+      "Django",
+      "Docker",
+      "React"
+    ],
+    "years_of_experience": 5,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Product building",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Swiggy",
+        "role": "Data Scientist",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "Delhi Technological University (DTU)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Rohan Joshi",
+    "handle": "rohan_joshi50",
+    "skill_tags": [
+      "AWS",
+      "React",
+      "Django"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "DevOps Engineer",
+      "Frontend Developer"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "AI/ML",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Flipkart",
+        "role": "DevOps Engineer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Ishita Chopra",
+    "handle": "ishita_chopra75",
+    "skill_tags": [
+      "C++",
+      "SQL",
+      "Docker",
+      "Java",
+      "TensorFlow"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Full Stack Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Netflix",
+        "role": "Frontend Developer",
+        "duration_years": 3
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Meera Verma",
+    "handle": "meera_verma57",
+    "skill_tags": [
+      "Java",
+      "Django",
+      "React",
+      "TensorFlow",
+      "Docker"
+    ],
+    "years_of_experience": 10,
+    "preferred_roles": [
+      "Data Scientist"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Research projects",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Adobe",
+        "role": "Data Scientist",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Ishita Sharma",
+    "handle": "ishita_sharma9",
+    "skill_tags": [
+      "SQL",
+      "Docker",
+      "React",
+      "Node.js",
+      "TensorFlow"
+    ],
+    "years_of_experience": 8,
+    "preferred_roles": [
+      "Data Scientist",
+      "Frontend Developer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Product building",
+      "Mobile apps",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Data Scientist",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Meera Singh",
+    "handle": "meera_singh72",
+    "skill_tags": [
+      "Python",
+      "React",
+      "C++",
+      "AWS"
+    ],
+    "years_of_experience": 2,
+    "preferred_roles": [
+      "Backend Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Product building",
+      "Open source contribution",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Paytm",
+        "role": "Data Scientist",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "COEP Technological University (Pune)",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Vivaan Joshi",
+    "handle": "vivaan_joshi65",
+    "skill_tags": [
+      "React",
+      "Node.js",
+      "Docker"
+    ],
+    "years_of_experience": 3,
+    "preferred_roles": [
+      "Backend Developer",
+      "Data Scientist"
+    ],
+    "availability_timezone": "IST",
+    "project_interests": [
+      "Mobile apps",
+      "AI/ML",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "Google",
+        "role": "Frontend Developer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Jamia Millia Islamia (JMI Delhi)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Aarav Mehta",
+    "handle": "aarav_mehta89",
+    "skill_tags": [
+      "React",
+      "TensorFlow",
+      "AWS"
+    ],
+    "years_of_experience": 7,
+    "preferred_roles": [
+      "Data Scientist"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Product building",
+      "AI/ML",
+      "Research projects"
+    ],
+    "work_history": [
+      {
+        "company": "TCS",
+        "role": "Backend Developer",
+        "duration_years": 2
+      }
+    ],
+    "education": {
+      "institution": "Indian Institute of Technology (IIT Delhi)",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Aditya Khan",
+    "handle": "aditya_khan23",
+    "skill_tags": [
+      "SQL",
+      "Python",
+      "C++"
+    ],
+    "years_of_experience": 6,
+    "preferred_roles": [
+      "DevOps Engineer"
+    ],
+    "availability_timezone": "EST",
+    "project_interests": [
+      "Research projects",
+      "Mobile apps"
+    ],
+    "work_history": [
+      {
+        "company": "Swiggy",
+        "role": "Frontend Developer",
+        "duration_years": 1
+      }
+    ],
+    "education": {
+      "institution": "International Institute of Information Technology (IIIT Hyderabad)",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Tara Sharma",
+    "handle": "tara_sharma78",
+    "skill_tags": [
+      "SQL",
+      "React",
+      "C++",
+      "TensorFlow"
+    ],
+    "years_of_experience": 1,
+    "preferred_roles": [
+      "Frontend Developer"
+    ],
+    "availability_timezone": "PST",
+    "project_interests": [
+      "Research projects",
+      "Open source contribution"
+    ],
+    "work_history": [
+      {
+        "company": "Microsoft",
+        "role": "DevOps Engineer",
+        "duration_years": 5
+      }
+    ],
+    "education": {
+      "institution": "Delhi Technological University (DTU)",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Rohan Verma",
+    "handle": "rohan_verma32",
+    "skill_tags": ["React", "Python", "SQL", "Docker"],
+    "years_of_experience": 4,
+    "preferred_roles": ["Backend Developer", "Data Scientist"],
+    "availability_timezone": "IST",
+    "project_interests": ["Product building", "AI/ML"],
+    "work_history": [
+      { "company": "Microsoft", "role": "Data Scientist", "duration_years": 3 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Meera Singh",
+    "handle": "meera_singh47",
+    "skill_tags": ["Java", "Spring Boot", "Docker"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Full Stack Developer"],
+    "availability_timezone": "EST",
+    "project_interests": ["Open source contribution", "Mobile apps"],
+    "work_history": [
+      { "company": "Amazon", "role": "Full Stack Developer", "duration_years": 4 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Aarav Sharma",
+    "handle": "aarav_sharma22",
+    "skill_tags": ["Django", "Python", "SQL", "React"],
+    "years_of_experience": 5,
+    "preferred_roles": ["Backend Developer", "DevOps Engineer"],
+    "availability_timezone": "PST",
+    "project_interests": ["AI/ML", "Research projects"],
+    "work_history": [
+      { "company": "Flipkart", "role": "DevOps Engineer", "duration_years": 2 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Diya Joshi",
+    "handle": "diya_joshi75",
+    "skill_tags": ["Python", "TensorFlow", "NLP"],
+    "years_of_experience": 2,
+    "preferred_roles": ["Data Scientist"],
+    "availability_timezone": "IST",
+    "project_interests": ["AI/ML", "Research projects"],
+    "work_history": [
+      { "company": "Google", "role": "ML Engineer", "duration_years": 2 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "B.Sc in Data Science"
+    }
+  },
+  {
+    "name": "Kunal Rao",
+    "handle": "kunal_rao39",
+    "skill_tags": ["Node.js", "JavaScript", "React", "AWS"],
+    "years_of_experience": 3,
+    "preferred_roles": ["Full Stack Developer"],
+    "availability_timezone": "EST",
+    "project_interests": ["Product building", "Mobile apps"],
+    "work_history": [
+      { "company": "Paytm", "role": "Software Developer", "duration_years": 3 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Saanvi Patel",
+    "handle": "saanvi_patel88",
+    "skill_tags": ["AWS", "Docker", "CI/CD", "Terraform"],
+    "years_of_experience": 6,
+    "preferred_roles": ["DevOps Engineer"],
+    "availability_timezone": "IST",
+    "project_interests": ["Cloud setup", "Infrastructure automation"],
+    "work_history": [
+      { "company": "Infosys", "role": "DevOps Engineer", "duration_years": 4 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Vivaan Nair",
+    "handle": "vivaan_nair44",
+    "skill_tags": ["Java", "Spring Boot", "SQL", "AWS"],
+    "years_of_experience": 5,
+    "preferred_roles": ["Backend Developer"],
+    "availability_timezone": "PST",
+    "project_interests": ["Microservices", "Scalable systems"],
+    "work_history": [
+      { "company": "TCS", "role": "Backend Developer", "duration_years": 5 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Ishita Khan",
+    "handle": "ishita_khan13",
+    "skill_tags": ["HTML", "CSS", "JavaScript", "React"],
+    "years_of_experience": 2,
+    "preferred_roles": ["Frontend Developer"],
+    "availability_timezone": "IST",
+    "project_interests": ["UI design", "Mobile apps"],
+    "work_history": [
+      { "company": "Adobe", "role": "Frontend Developer", "duration_years": 2 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Aditya Mehta",
+    "handle": "aditya_mehta61",
+    "skill_tags": ["Python", "Django", "PostgreSQL", "Docker"],
+    "years_of_experience": 4,
+    "preferred_roles": ["Backend Developer"],
+    "availability_timezone": "EST",
+    "project_interests": ["APIs", "AI/ML"],
+    "work_history": [
+      { "company": "Swiggy", "role": "Backend Developer", "duration_years": 4 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Tara Chopra",
+    "handle": "tara_chopra19",
+    "skill_tags": ["TensorFlow", "PyTorch", "Machine Learning", "Python"],
+    "years_of_experience": 5,
+    "preferred_roles": ["ML Engineer"],
+    "availability_timezone": "IST",
+    "project_interests": ["AI/ML", "Big data analytics"],
+    "work_history": [
+      { "company": "Netflix", "role": "ML Engineer", "duration_years": 3 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Aryan Joshi",
+    "handle": "aryan_joshi82",
+    "skill_tags": ["React", "Node.js", "MongoDB", "TypeScript"],
+    "years_of_experience": 4,
+    "preferred_roles": ["Full Stack Developer"],
+    "availability_timezone": "IST",
+    "project_interests": ["Scalable web applications", "Real-time systems"],
+    "work_history": [
+      { "company": "Adobe", "role": "Software Engineer", "duration_years": 4 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Neha Mehta",
+    "handle": "neha_mehta51",
+    "skill_tags": ["Python", "Flask", "SQL", "NLP"],
+    "years_of_experience": 3,
+    "preferred_roles": ["Backend Developer", "Data Scientist"],
+    "availability_timezone": "IST",
+    "project_interests": ["AI chatbots", "Text analysis"],
+    "work_history": [
+      { "company": "TCS", "role": "Data Analyst", "duration_years": 3 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Kriti Nair",
+    "handle": "kriti_nair29",
+    "skill_tags": ["Java", "Spring Boot", "Docker", "Kubernetes"],
+    "years_of_experience": 6,
+    "preferred_roles": ["Backend Developer", "DevOps Engineer"],
+    "availability_timezone": "IST",
+    "project_interests": ["Cloud architecture", "Microservices"],
+    "work_history": [
+      { "company": "Microsoft", "role": "Software Engineer", "duration_years": 6 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "MCA"
+    }
+  },
+  {
+    "name": "Ishaan Patel",
+    "handle": "ishaan_patel76",
+    "skill_tags": ["TensorFlow", "Scikit-learn", "Python", "R"],
+    "years_of_experience": 4,
+    "preferred_roles": ["Machine Learning Engineer"],
+    "availability_timezone": "PST",
+    "project_interests": ["Predictive modeling", "AI research"],
+    "work_history": [
+      { "company": "Flipkart", "role": "ML Engineer", "duration_years": 4 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Tanvi Rao",
+    "handle": "tanvi_rao59",
+    "skill_tags": ["HTML", "CSS", "Figma", "Adobe XD"],
+    "years_of_experience": 2,
+    "preferred_roles": ["UI/UX Designer"],
+    "availability_timezone": "EST",
+    "project_interests": ["User interfaces", "Web design"],
+    "work_history": [
+      { "company": "Swiggy", "role": "UI Designer", "duration_years": 2 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Yash Chopra",
+    "handle": "yash_chopra93",
+    "skill_tags": ["Python", "NLP", "AWS", "GCP"],
+    "years_of_experience": 5,
+    "preferred_roles": ["AI Engineer", "Cloud Architect"],
+    "availability_timezone": "IST",
+    "project_interests": ["AI-powered systems", "Cloud automation"],
+    "work_history": [
+      { "company": "Google", "role": "Cloud Engineer", "duration_years": 5 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Alisha Khan",
+    "handle": "alisha_khan65",
+    "skill_tags": ["React", "Node.js", "JavaScript"],
+    "years_of_experience": 3,
+    "preferred_roles": ["Frontend Developer", "Full Stack Developer"],
+    "availability_timezone": "IST",
+    "project_interests": ["Web apps", "UI enhancements"],
+    "work_history": [
+      { "company": "Paytm", "role": "Frontend Developer", "duration_years": 3 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "B.E. in IT"
+    }
+  },
+  {
+    "name": "Devansh Mehta",
+    "handle": "devansh_mehta78",
+    "skill_tags": ["Python", "SQL", "Docker", "Ansible"],
+    "years_of_experience": 6,
+    "preferred_roles": ["DevOps Engineer"],
+    "availability_timezone": "PST",
+    "project_interests": ["CI/CD pipelines", "Cloud infrastructure"],
+    "work_history": [
+      { "company": "Infosys", "role": "DevOps Engineer", "duration_years": 6 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "M.Tech in AI"
+    }
+  },
+  {
+    "name": "Priya Joshi",
+    "handle": "priya_joshi84",
+    "skill_tags": ["React", "Redux", "Tailwind CSS", "JavaScript"],
+    "years_of_experience": 2,
+    "preferred_roles": ["Frontend Developer"],
+    "availability_timezone": "IST",
+    "project_interests": ["Responsive web design", "User interfaces"],
+    "work_history": [
+      { "company": "Adobe", "role": "UI Engineer", "duration_years": 2 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "B.Tech in Computer Science"
+    }
+  },
+  {
+    "name": "Kabir Sharma",
+    "handle": "kabir_sharma21",
+    "skill_tags": ["Python", "Django", "AWS", "SQL"],
+    "years_of_experience": 5,
+    "preferred_roles": ["Backend Developer", "Cloud Engineer"],
+    "availability_timezone": "EST",
+    "project_interests": ["Backend architecture", "API development"],
+    "work_history": [
+      { "company": "Amazon", "role": "Backend Developer", "duration_years": 5 }
+    ],
+    "education": {
+      "institution": "Assam Royal Global University",
+      "degree": "MCA"
+    }
+  }
+]
